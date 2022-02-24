@@ -1,0 +1,4189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sea of the seed's sufferings through which runs a river of rich rejoycing ... written in the year 1659 in Rome-prison of mad-men, by the extream suffering servant of the Lord, John.</title>
+            <author>J. P. (John Perrot), d. 1671?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54441</idno>
+            <idno type="STC">Wing P1629</idno>
+            <idno type="STC">ESTC R38201</idno>
+            <idno type="EEBO-CITATION">17204024</idno>
+            <idno type="OCLC">ocm 17204024</idno>
+            <idno type="VID">106231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54441)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1621:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sea of the seed's sufferings through which runs a river of rich rejoycing ... written in the year 1659 in Rome-prison of mad-men, by the extream suffering servant of the Lord, John.</title>
+                  <author>J. P. (John Perrot), d. 1671?</author>
+               </titleStmt>
+               <extent>46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: J.P.</note>
+                  <note>Running title: A song for that assembly.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Religious poetry, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106231:1"/>
+            <pb facs="tcp:106231:1"/>
+            <p>A SEA OF THE SEED'S Sufferings, Through which <hi>Runs</hi> A
+RIVER OF Rich Rejoycing.</p>
+            <q>
+               <l>Thick <hi>Darkneſs</hi> girds the hours of <hi>Death's</hi>
+  black day,</l> 
+               <l>A Mourning <hi>Seed</hi> weeps over her wry Way.</l> 
+               <l>
+                  <hi>Damoſels</hi> yet ſhall their <hi>Dowries</hi> large
+  poſſeſs,</l> 
+               <l>And <hi>dance</hi> at <hi>Marr'age,</hi> in the <hi>Lamb's
+  Wifes</hi> Dreſs.</l> 
+               <l>But whilſt the Earth <hi>Blood,</hi> as a <hi>Garment,</hi>
+  wears;</l> 
+               <l>Upon her <hi>Face</hi> I'le <hi>drop</hi> my <hi>trickling
+  Tears.</hi>
+               </l> 
+               <l>In this my <hi>Sea,</hi> that Soul which wadeth deep,</l> 
+               <l>Shall know my <hi>Flood-ſluce,</hi> and apart ſhall
+  weep,</l> 
+               <l>Filling his <hi>meaſure</hi> under <hi>Pharaoh's
+  frown;</hi>
+               </l> 
+               <l>His <hi>End</hi> ſhall be to wear a <hi>weighty
+  Crown.</hi>
+               </l>
+            </q>
+            <p>Written in the Year, 1659, in <hi>Rome-Priſon</hi> of Mad-men,
+By the extream Suffering Servant of the <hi>Lord, JOHN.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the
+ſign of the <hi>Black-ſpread-Eagle</hi> and <hi>Windmill,</hi> in
+<hi>Martins Le Grand,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:106231:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:106231:2"/>
+            <head>To the Congregation in the Valley of <hi>Megiddon,</hi> which
+are come to the Mourning, as it was in the Dayes of
+<hi>Hadadrimmon.</hi>
+            </head>
+            <lg>
+               <l>I Am a Worm <hi>poor</hi> and <hi>low,</hi> which in the Earth
+  doth creep,</l>
+               <l>Hid as the <hi>tender Plant</hi> with <hi>Snow,</hi> in time of
+  winter deep.</l>
+               <l>So ſaith the Seed, grievous <hi>Oppreſſions</hi> long have
+  bin</l>
+               <l>My weighty <hi>burthens:</hi> ages ſpreading clouds of
+  ſin</l>
+               <l>Have <hi>wrapt</hi> me up, and <hi>roul'd</hi> me under
+  trouble;</l>
+               <l>I ſtand <hi>the ſame,</hi> they <hi>periſh'd</hi> as a
+  <hi>bubble.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hills, Mountains, Rocks have <hi>cover'd me,</hi> procelſive
+  ſwelling Seas</l>
+               <l>Weights, raging waves I <hi>feel</hi> and <hi>ſee,</hi> my
+  burden's without eaſe</l>
+               <l>In <hi>Egypt's</hi> Land, wherein, like as <hi>a ſlave</hi>
+  I'm bound,</l>
+               <l>And made the <hi>ſubject</hi> of her Rulers <hi>arrows</hi>
+  wound;</l>
+               <l>And in my <hi>bleeding ſtate</hi> am made the
+  <hi>ſtock,</hi>
+               </l>
+               <l>Which ev'ry <hi>heart</hi> therein doth <hi>hate</hi> and
+  <hi>mock.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I as the innocent <hi>Turtle-dove,</hi> that's left without a
+  <hi>mate,</hi>
+               </l>
+               <l>Do mourn in <hi>ſecret,</hi> full of <hi>love,</hi> whilſt
+  all fleſh doth me hate:</l>
+               <l>And in the <hi>Wilderneſs,</hi> like as a helpleſs
+  <hi>Lamb</hi>
+               </l>
+               <l>Doth <hi>lie,</hi> bleating out <hi>grief</hi> at ſide of a
+  <hi>dead dam;</hi>
+               </l>
+               <l>And like a <hi>Babe</hi> at a <hi>dead Mothers</hi>
+  breaſt,</l>
+               <l>Strugling for <hi>Milk;</hi> ſo am I without
+  <hi>reſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Doth <hi>Vi'lence</hi> in the Land <hi>flow,</hi> and am not I
+  <hi>oppreſt?</hi>
+               </l>
+               <l>I would that all Nations <hi>did know,</hi> how they have
+  <hi>diſpoſſeſt</hi>
+               </l>
+               <l>
+                  <hi>Me</hi> of th'<hi>Inheritance,</hi> to which I was <hi>Heir
+  born,</hi>
+               </l>
+               <l>And ſhut me out of <hi>doors,</hi> and left me as
+  <hi>forlorn,</hi>
+               </l>
+               <l>Subject to <hi>Sufferings,</hi> in a Sea of <hi>danger;</hi>
+               </l>
+               <l>In all the Earth a <hi>Pilgrim</hi> and <hi>a Stranger.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Hunger, Thirſt, Nakedneſs,</hi> and <hi>Cold,</hi> yea,
+  <hi>pangs</hi> of <hi>pain</hi> I eat,</l>
+               <l>To which <hi>Oppreſſion</hi> doth me <hi>hold, Tears</hi>
+  are my <hi>drink</hi> &amp; <hi>meat;</hi>
+               </l>
+               <l>
+                  <hi>Sighs</hi> in the deeps do <hi>gird me,</hi> as a
+  <hi>ſwadling-band;</hi>
+               </l>
+               <l>The Night's <hi>black womb</hi> of <hi>wrath</hi>'s my
+  <hi>bondage</hi> in the Land.</l>
+               <l>
+                  <pb n="4" facs="tcp:106231:3"/>Oh! where's the <hi>Eye</hi> that doth my
+  <hi>Suff'rings</hi> read?</l>
+               <l>Who am of <hi>Jacob's loyns,</hi> that <hi>Worm</hi> and
+  <hi>Seed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Nations, Hoſts,</hi> mighty <hi>Powers</hi> as
+  <hi>one,</hi> in Battle array are ſet:</l>
+               <l>
+                  <hi>Kings, Princes, Multitudes</hi> (unknown) their Spears and
+  Swords have whet;</l>
+               <l>The alienated <hi>Jew</hi> and <hi>Gentil's</hi> fallen
+  Will,</l>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nited</hi> are, deſign'd mine innocent <hi>blood</hi>
+  to <hi>ſpill:</hi>
+               </l>
+               <l>
+                  <hi>Gog</hi> and <hi>Magog</hi>'s great <hi>Hoſt</hi> have
+  thus <hi>decreed,</hi>
+               </l>
+               <l>To cut down ev'ry branch of <hi>Abraham's ſeed.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I lodg in <hi>Deſerts</hi> under <hi>boughs,</hi> which thorny
+  trees have ſpread,</l>
+               <l>When I would <hi>riſe,</hi> then Hell in <hi>Vows</hi> moves
+  on this worm <hi>to tread</hi>
+               </l>
+               <l>Who am that <hi>Grain,</hi> againſt which all the World
+  <hi>ſtands</hi>
+               </l>
+               <l>In wilful <hi>Enmity</hi> and <hi>Wrath,</hi> in Troops and
+  Bands:</l>
+               <l>As thus, as <hi>deſolate,</hi> involv'd in <hi>grief,</hi>
+               </l>
+               <l>Left <hi>languiſhing</hi> in <hi>Earth,</hi> without
+  <hi>relief.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I ſpeak of <hi>fleſh,</hi> the <hi>fleſh</hi> of Son of
+  <hi>Man,</hi>
+               </l>
+               <l>Which paſt not <hi>flaming Sword,</hi> nor <hi>fiery
+  Fan.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Though <hi>I</hi> do <hi>pant,</hi> all <hi>fleſh</hi> is as
+  an <hi>Adamant,</hi>
+               </l>
+               <l>My trickling <hi>drops</hi> man's ſpirit doth not
+  <hi>move</hi>
+               </l>
+               <l>Of ſweating <hi>blood,</hi> encreaſing on me as a
+  <hi>flood:</hi>
+               </l>
+               <l>Ah! how <hi>each day</hi> doth he <hi>gain-ſay</hi> my
+  <hi>love.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My <hi>Virtue pure,</hi> his <hi>Luſt</hi> abhors, which doth
+  <hi>allure</hi>
+               </l>
+               <l>God's hoſt of <hi>Angels,</hi> in the <hi>Heav'ns</hi> to
+  wed;</l>
+               <l>Though I <hi>deſcend,</hi> yet mark, man's deſperate
+  <hi>curſed end,</hi>
+               </l>
+               <l>In <hi>Oath</hi> he's <hi>bound,</hi> deadly to <hi>wound</hi>
+  my <hi>head.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What ſhall I <hi>ſay?</hi> Blood is the <hi>travel</hi> of
+  my <hi>day;</hi>
+               </l>
+               <l>Earth's <hi>thundring rage,</hi> blown forth by
+  <hi>Lightning's</hi> breath,</l>
+               <l>Doth poſt and <hi>fly,</hi> purſuing <hi>Life;</hi> Ah! hear
+  my <hi>Cry:</hi>
+               </l>
+               <l>What! ſhall I <hi>weep</hi> in Oceans <hi>deep</hi> to
+  <hi>Death?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I could not <hi>hope</hi> but that each <hi>ſigh</hi> and
+  <hi>groan,</hi>
+               </l>
+               <l>With ev'ry <hi>tear</hi> is dropt before God's
+  <hi>Throne.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:106231:3"/>
+            <head>A Song for that Aſſembly.</head>
+            <lg>
+               <l>HEaring the Seed's <hi>fore cryes,</hi> my heart did think,</l>
+               <l>How <hi>bitter</hi> is the <hi>Cup</hi> given thee <hi>to
+  drink?</hi>
+               </l>
+               <l>And <hi>pond'ring well,</hi> mine Eye did plainly
+  <hi>ſee,</hi>
+               </l>
+               <l>That, like <hi>ſpread-nets,</hi> ſorrows have compaſt
+  <hi>thee.</hi>
+               </l>
+               <l>Whilſt in the <hi>ſhallow waters</hi> I did wait,</l>
+               <l>Like as the <hi>leaſt,</hi> I ſaw thee made the
+  <hi>bait,</hi>
+               </l>
+               <l>The little <hi>Dolphin's ſpaun,</hi> in ev'ry hour</l>
+               <l>Purſu'd by <hi>Fiſhes,</hi> which would thee
+  <hi>devour.</hi>
+               </l>
+               <l>And whilſt <hi>I waited,</hi> the Deeps did me
+  <hi>cover,</hi>
+               </l>
+               <l>Wherein I ſaw, where thou <hi>ſwim'st ſwift</hi> to
+  hover,</l>
+               <l>The <hi>Whale,</hi> the <hi>Shark,</hi> the <hi>Porpos,</hi> and
+  the <hi>Hake</hi>
+               </l>
+               <l>In <hi>ſcools</hi> do chaſe thee <hi>fierce,</hi> a prey
+  <hi>to make:</hi>
+               </l>
+               <l>
+                  <hi>Holes</hi> then in <hi>Rocks</hi> thou mak'ſt thy
+  <hi>hiding-place,</hi>
+               </l>
+               <l>To ſave thy <hi>Life</hi> from their moſt <hi>cruel
+  chaſe.</hi>
+               </l>
+               <l>Thou <hi>ſwim'ſt</hi> in Deeps the longeſt courſe of
+  <hi>fears,</hi>
+               </l>
+               <l>There's not <hi>another</hi> which ſuch <hi>Suff'ring</hi>
+  bears.</l>
+               <l>When unto <hi>ſhore</hi> I came with <hi>lift-up
+  head,</hi>
+               </l>
+               <l>Thy many <hi>Woes</hi> on Earth I plainly <hi>read;</hi>
+               </l>
+               <l>And then in <hi>ſecret</hi> ſaid, Sure few do
+  <hi>wey</hi>
+               </l>
+               <l>Thy <hi>Suff'rings great;</hi> hunted as for the
+  <hi>prey</hi>
+               </l>
+               <l>Of <hi>Wolf, Fox, Lion, Tigar,</hi> and of <hi>Bear,</hi>
+               </l>
+               <l>Which <hi>houl</hi> and <hi>roar</hi> thy <hi>Lamb-like
+  fleſh</hi> to tear.</l>
+               <l>
+                  <hi>Wild-Aſſes</hi> ſnuff up Wind, <hi>fed-horſes</hi>
+  ruſh</l>
+               <l>All <hi>againſt</hi> thee; <hi>Baſhan's black Bulls</hi> do
+  puſh</l>
+               <l>With all <hi>their force</hi> and <hi>might,</hi> with
+  ſtrong-ſet <hi>horns,</hi>
+               </l>
+               <l>Pointed like <hi>Spears,</hi> as <hi>ſharp</hi> as
+  <hi>pricking thorns.</hi>
+               </l>
+               <l>The <hi>Cockatrice</hi> hid in a ſecret place,</l>
+               <l>His <hi>Jaws</hi> hold <hi>venom,</hi> to <hi>ſpit</hi> in thy
+  <hi>face.</hi>
+               </l>
+               <l>The <hi>Crockadile,</hi> with <hi>Man's voice</hi> feigns
+  <hi>his cry</hi>
+               </l>
+               <l>To ſlay <hi>thy life,</hi> he <hi>weeps</hi> in
+  <hi>ſubtilty;</hi>
+               </l>
+               <l>If that in <hi>pity</hi> thou ſhouldſt haſte to ſee,</l>
+               <l>What ſhould the <hi>cauſe</hi> of ſuch <hi>ſore
+  mourning</hi> be.</l>
+               <l>Thus, as a <hi>ſnare,</hi> in ſecret he doth
+  <hi>watch,</hi>
+               </l>
+               <l>Thy <hi>tender Life,</hi> his deadly mind <hi>to catch.</hi>
+               </l>
+               <l>
+                  <pb n="6" facs="tcp:106231:4"/>Whilſt <hi>ſtanding ſtill,</hi> and
+  lifting up <hi>mine eye,</hi>
+               </l>
+               <l>Flocks of <hi>devouring Birds</hi> I did <hi>espy,</hi>
+               </l>
+               <l>In th' <hi>Air,</hi> with watching eyes, ſoaring
+  <hi>aloft.</hi>
+               </l>
+               <l>At which I <hi>ſuddenly</hi> conceiv'd the
+  <hi>thought,</hi>
+               </l>
+               <l>And in the ſecret <hi>cloſet</hi> of my mind,</l>
+               <l>I ſaid, They ſeek the <hi>little Wren</hi> to find,</l>
+               <l>Which in much fear in <hi>Thickets</hi> hid doth lie,</l>
+               <l>Whilſt <hi>Hawks</hi> and <hi>Vultures</hi> over thee <hi>do
+  fly;</hi>
+               </l>
+               <l>Their <hi>Bills</hi> and <hi>Tallants</hi> all prepared are,</l>
+               <l>Watching thy <hi>riſing,</hi> at thy <hi>Life</hi> to
+  ſparre:</l>
+               <l>The <hi>Eagle</hi> flyeth with a <hi>fixed will,</hi>
+               </l>
+               <l>To <hi>tear</hi> thy <hi>tender fleſh</hi> with her
+  <hi>ſtrong Bill:</hi>
+               </l>
+               <l>The <hi>Oſtrich</hi> great, which <hi>Iron</hi> can
+  <hi>digeſt,</hi>
+               </l>
+               <l>Prepares her <hi>appetite</hi> on thee to <hi>feaſt:</hi>
+               </l>
+               <l>The <hi>cruel Dragon</hi> of the <hi>Wilderneſs,</hi>
+               </l>
+               <l>Purſues thee <hi>fierce</hi> in time of <hi>thy
+  diſtreſs,</hi>
+               </l>
+               <l>With <hi>claſhing wings</hi> and <hi>ſcales,</hi> flying
+  moſt <hi>ſwift,</hi>
+               </l>
+               <l>As if to <hi>find</hi> thee, <hi>Heaven</hi> and <hi>Earth</hi>
+  would <hi>ſift;</hi>
+               </l>
+               <l>He <hi>ſpues</hi> out deadly <hi>venom,</hi> as a
+  <hi>fluction;</hi>
+               </l>
+               <l>Reſtleſs in <hi>life,</hi> whilſt ſeeking <hi>thy
+  deſtruction.</hi>
+               </l>
+               <l>The <hi>fiery-flying Serpent</hi>'s flaming breath</l>
+               <l>Spreads <hi>burning</hi> in the <hi>Earth,</hi> ſeeking
+  <hi>thy Death,</hi>
+               </l>
+               <l>Many a <hi>ſubtil twiſt</hi> with <hi>tayl,</hi> and
+  <hi>wrench</hi>
+               </l>
+               <l>With <hi>head</hi> and <hi>body,</hi> he works to
+  <hi>entrench</hi>
+               </l>
+               <l>Upon the <hi>borders</hi> of thy <hi>Liberties,</hi>
+               </l>
+               <l>Thereby to <hi>catch</hi> thee as a <hi>prey</hi> and
+  <hi>prize:</hi>
+               </l>
+               <l>He ſtretches <hi>Wings</hi> in Elements moſt high,</l>
+               <l>Burning in <hi>flames,</hi> as he his courſe doth fly</l>
+               <l>Aloft, aſcending, <hi>ſhining</hi> in the <hi>Air,</hi>
+               </l>
+               <l>As if he were a <hi>blazing-ſtar</hi> moſt fair;</l>
+               <l>And as the <hi>Poliſher</hi> of <hi>Hell's</hi> wombs
+  ſnares</l>
+               <l>In ſort moſt <hi>ſubtile</hi> ſets his <hi>blocks</hi>
+  and <hi>bars,</hi>
+               </l>
+               <l>Thy pure path to <hi>pervert,</hi> and cauſe to
+  <hi>ſtumble</hi>
+               </l>
+               <l>Thee unto loſſe of <hi>Life,</hi> thou <hi>ſweet</hi> and
+  <hi>humble.</hi>
+               </l>
+               <l>Mine Eye <hi>reverted</hi> to the <hi>Earth</hi> again,</l>
+               <l>I ſaw the <hi>ground,</hi> in which thou <hi>long</hi> haſt
+  <hi>lain:</hi>
+               </l>
+               <l>The <hi>ſight</hi> was <hi>ſad,</hi> a pure
+  <hi>Lilly-ſeed</hi>
+               </l>
+               <l>Compaſt with ev'ry noiſom hurtful <hi>Weed;</hi>
+               </l>
+               <l>
+                  <pb n="7" facs="tcp:106231:4"/>
+                  <hi>Thiſtles</hi> and <hi>Brambles</hi> over
+  thee <hi>aspires,</hi>
+               </l>
+               <l>With choaking <hi>Thorns,</hi> and deſtructive
+  <hi>Bryars.</hi>
+               </l>
+               <l>Through <hi>cloven Mountains</hi> things I clearly did</l>
+               <l>
+                  <hi>Behold,</hi> which in <hi>Earth's womb</hi> in Deeps lay
+  <hi>hid,</hi>
+               </l>
+               <l>A <hi>Treaſure</hi> vaſt of <hi>Silver</hi> and of
+  <hi>Gold</hi>
+               </l>
+               <l>Of <hi>price</hi> uncounted, never by man told.</l>
+               <l>Though <hi>ſad</hi> to <hi>cite</hi> the <hi>ſhape</hi> in
+  which <hi>it lay,</hi>
+               </l>
+               <l>Like ragged <hi>Rocks</hi> in <hi>Oar,</hi> in hue like
+  <hi>Clay;</hi>
+               </l>
+               <l>Abſconding <hi>Virtue,</hi> whilſt not
+  <hi>ſeparate</hi>
+               </l>
+               <l>From the corrupted <hi>droſs</hi> and <hi>Reprobate,</hi>
+               </l>
+               <l>Wanting its <hi>ſplendor</hi> illuſtrious and bright,</l>
+               <l>Which <hi>purg'd,</hi> is ſeen by ev'ry <hi>open
+  ſight.</hi>
+               </l>
+               <l>Beneath the <hi>Oceans,</hi> which the <hi>Earth</hi> doth
+  <hi>meaſure,</hi>
+               </l>
+               <l>
+                  <hi>Mud, Sands,</hi> and <hi>Craggy Rocks</hi> conceal a
+  <hi>Treaſure;</hi>
+               </l>
+               <l>The <hi>Carbuncle,</hi> and ev'ry <hi>precious Gem;</hi>
+               </l>
+               <l>The <hi>Saphir, Pearl,</hi> and the <hi>Diadem,</hi>
+               </l>
+               <l>The <hi>Rubie, Emerauld,</hi> and <hi>Onix-ſtone,</hi>
+               </l>
+               <l>With what's unnam'd, and unto man <hi>unknown:</hi>
+               </l>
+               <l>Beſides, in her <hi>dark womb</hi> I ſaw
+  <hi>reveal'd</hi>
+               </l>
+               <l>A ſmother'd <hi>ſubſtance,</hi> in whoſe bowels
+  <hi>ſeal'd,</hi>
+               </l>
+               <l>Is <hi>all fulneſs</hi> of <hi>Virtue</hi> and
+  <hi>Perfection;</hi>
+               </l>
+               <l>But what <hi>avails?</hi> Death's <hi>chains</hi> hold in
+  <hi>ſubjection.</hi>
+               </l>
+               <l>Have I not therefore all day long to <hi>cry,</hi>
+               </l>
+               <l>Oh! <hi>Sorrows, Woes,</hi> Oh! <hi>immenſe Miſery?</hi>
+               </l>
+               <l>Verily, ſince theſe things I've <hi>ſeen</hi> and
+  <hi>felt,</hi>
+               </l>
+               <l>My <hi>heart</hi> within me like as <hi>Wax</hi> doth melt:</l>
+               <l>Oh! <hi>Preſſures, Preſſures, Bleedings, Sorrows,
+  Cryes!</hi>
+               </l>
+               <l>Remembring <hi>Jacob,</hi> tears <hi>run down</hi> mine
+  <hi>Eyes;</hi>
+               </l>
+               <l>My <hi>Bed's</hi> ſore pangs, my Cup holds <hi>Woes,</hi> deep
+  <hi>meaſure;</hi>
+               </l>
+               <l>I wrap my <hi>ſoul</hi> in <hi>care,</hi> deſpiſing
+  <hi>pleaſure.</hi>
+               </l>
+               <l>Thou <hi>Drop,</hi> Thy <hi>Channel's</hi> more than many
+  <hi>Brooks,</hi>
+               </l>
+               <l>On Thy <hi>Grief's Streams</hi> my mourning ſpirit
+  <hi>looks;</hi>
+               </l>
+               <l>Yea, for thy <hi>ſake</hi> my <hi>Bowels</hi> are a
+  <hi>River,</hi>
+               </l>
+               <l>Pour'd on the <hi>ground's,</hi> my <hi>Reins,</hi> my
+  <hi>Heart</hi> and <hi>Liver.</hi>
+               </l>
+               <l>Whilſt <hi>carnal,</hi> did I then a <hi>thought</hi>
+  retain,</l>
+               <l>That Man ſo <hi>bruitiſh</hi> was in his
+  <hi>diſdain?</hi>
+               </l>
+               <l>Was it conceived by <hi>me</hi> in the leaſt,</l>
+               <l>His <hi>Nature</hi> more <hi>Oppreſſive</hi> than the
+  <hi>Beaſt?</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:106231:5"/>Nay: 'twas not clear in <hi>ſubſtance</hi>
+  comprehended,</l>
+               <l>That he from <hi>Nature's bonds</hi> was thus
+  <hi>deſcended;</hi>
+               </l>
+               <l>Inſtead of <hi>Perſeverance,</hi> vile
+  <hi>Regreſſion,</hi>
+               </l>
+               <l>
+                  <hi>Disjoyn'd</hi> from <hi>Mercy,</hi> united to
+  <hi>Oppreſſion.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh Seed! how much more might mine heart <hi>encite?</hi>
+               </l>
+               <l>Too tedious for my <hi>Hand</hi> and <hi>Pen</hi> to
+  <hi>write;</hi>
+               </l>
+               <l>Thy more abundant <hi>Suff'rings</hi> than what man,</l>
+               <l>Yea, all below the <hi>Sun,</hi> diſcover <hi>can.</hi>
+               </l>
+               <l>How like an hungry wand'ring <hi>Orphant</hi> poor,</l>
+               <l>With bleeding <hi>Bowels,</hi> thruſt from ev'ry
+  <hi>Door,</hi>
+               </l>
+               <l>By <hi>Cruelty</hi> of what's thine own <hi>bereav'd;</hi>
+               </l>
+               <l>Though coming to <hi>thine Own,</hi> yet not
+  <hi>receiv'd!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There's not a <hi>Covenant</hi> in Earth ſo <hi>true,</hi>
+               </l>
+               <l>Nor <hi>Law</hi> ſo <hi>juſt,</hi> to give to <hi>Thee</hi>
+  thy <hi>due,</hi>
+               </l>
+               <l>Of <hi>Pitty, Mercy, Juſtice,</hi> all <hi>deny'd;</hi>
+               </l>
+               <l>Of Men <hi>abhor'd, deſpiſ'd,</hi> of all
+  <hi>defi'd.</hi>
+               </l>
+               <l>When I ſaw theſe, and many <hi>ſecrets</hi> more</l>
+               <l>Of <hi>Sorrows,</hi> which I have ſeal'd up in
+  <hi>ſtore,</hi>
+               </l>
+               <l>And plainly knowing that beyond <hi>Conception,</hi>
+               </l>
+               <l>Grief is thy <hi>Portion,</hi> through Man's <hi>ill
+  Rejection.</hi>
+               </l>
+               <l>The matter deeply ſank into my <hi>heart,</hi>
+               </l>
+               <l>And there <hi>ſtuck faſt,</hi> like as a <hi>wounding
+  dart.</hi>
+               </l>
+               <l>The more I <hi>muſ'd,</hi> the more my thoughts
+  <hi>increaſt:</hi>
+               </l>
+               <l>VVhat ſhall I ſay? I'l ſignifie the <hi>leaſt.</hi>
+               </l>
+               <l>VVhat <hi>all?</hi> yea, all, and more than I do
+  <hi>mention,</hi>
+               </l>
+               <l>Feeds thy <hi>ſad ſoul</hi> with <hi>ſighs,</hi> Ah!
+  doleful <hi>penſion.</hi>
+               </l>
+               <l>What <hi>all?</hi> yea all <hi>Kings, Peoples,</hi> and their
+  <hi>Powers,</hi>
+               </l>
+               <l>Their <hi>fenced Cities, Fortreſſes</hi> and
+  <hi>Towers.</hi>
+               </l>
+               <l>VVhat <hi>all?</hi> yea <hi>all,</hi> built wilfully as
+  <hi>Babel,</hi>
+               </l>
+               <l>With the ſame mind, which <hi>Cain</hi> ſlew juſt
+  <hi>Abel.</hi>
+               </l>
+               <l>VVhat <hi>all?</hi> yea, <hi>all,</hi> againſt thee are
+  <hi>decreed,</hi>
+               </l>
+               <l>To leave thee <hi>Root,</hi> nor <hi>Branch,</hi> nor as a
+  <hi>Seed.</hi>
+               </l>
+               <l>VVhat <hi>all?</hi> yea, <hi>all's</hi> thy <hi>deſtiny</hi>
+  and <hi>fate,</hi>
+               </l>
+               <l>The VVorld's <hi>Oath</hi> to hold the <hi>Captivate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Pond'ring, <hi>Interrogation</hi> mov'd in me;</l>
+               <l>Saying, How ſhall this <hi>Seed</hi> deliver'd
+  <hi>be?</hi>
+               </l>
+               <l>VVho can the troubled <hi>Hoſts</hi> on Earth
+  <hi>ſuppreſs,</hi>
+               </l>
+               <l>Without which, Can he <hi>Life</hi> and <hi>Peace</hi>
+  poſſeſs?</l>
+               <l>
+                  <pb n="9" facs="tcp:106231:5"/>How can it be <hi>conceiv'd,</hi> and much
+  leſs <hi>ſpoken,</hi>
+               </l>
+               <l>Hell's <hi>ſtrength</hi> and <hi>ſtratagems</hi> all to be
+  <hi>broken?</hi>
+               </l>
+               <l>Who can rip up <hi>Foundations</hi> of <hi>Mountains,</hi>
+               </l>
+               <l>And <hi>fix Bars</hi> on the <hi>Doors</hi> of <hi>unclean
+  Fountains?</hi>
+               </l>
+               <l>VVho knows the <hi>Night's courſe</hi> of the <hi>Wolf</hi>
+  and <hi>Fox?</hi>
+               </l>
+               <l>And who can <hi>trace</hi> the <hi>Serpent's path</hi> on
+  <hi>Rocks?</hi>
+               </l>
+               <l>VVho can ſhew meaſure <hi>just</hi> of ev'ry
+  <hi>flight</hi>
+               </l>
+               <l>Of all the <hi>Screech-Owls,</hi> and the <hi>Bats</hi> by
+  night?</l>
+               <l>VVho can trace <hi>twiſts,</hi> and ſearch <hi>depths</hi>
+  of all <hi>Holes,</hi>
+               </l>
+               <l>Which are the <hi>ſecret paths</hi> of the <hi>blind
+  Moles?</hi>
+               </l>
+               <l>I ask of all the worldlings <hi>wiſe</hi> as
+  <hi>Fools,</hi>
+               </l>
+               <l>Can you ſtill <hi>Cockling-Races,</hi> or
+  <hi>Whirl-Pools?</hi>
+               </l>
+               <l>VVho can convert <hi>Flames</hi> into <hi>flakes</hi> of
+  <hi>Snow?</hi>
+               </l>
+               <l>And, who can <hi>ſtop</hi> the <hi>Ebb,</hi> and make to
+  <hi>flow?</hi>
+               </l>
+               <l>Can <hi>Procreation</hi> be without a <hi>Dame?</hi>
+               </l>
+               <l>And, who can ever make a <hi>Panther</hi> Tame?</l>
+               <l>VVho can make <hi>Seas</hi> like unto the leaſt
+  <hi>Fountain?</hi>
+               </l>
+               <l>And make a <hi>little Stone,</hi> a <hi>mighty
+  Mountain?</hi>
+               </l>
+               <l>How ſhall this be e're in ſucceeding <hi>dayes;</hi>
+               </l>
+               <l>
+                  <hi>Jacob</hi>'s moſt <hi>ſmall</hi> and <hi>low,</hi> who
+  ſhall him raiſe?</l>
+            </lg>
+            <p>Let all <hi>Generations</hi> henceforth and for ever
+<hi>know,</hi> That the <hi>moſt High</hi> GOD hath his <hi>ſecret
+habitation</hi> with the <hi>QUAKER</hi> and <hi>TREMBLER</hi> at His
+<hi>Word,</hi> as may appear by the <hi>Glory</hi> of the <hi>Voice</hi> of his
+<hi>Majeſty.</hi>
+            </p>
+            <lg>
+               <l>I girt my <hi>Loyns</hi> with ſtrong <hi>Steel-bands</hi> of
+  <hi>fear,</hi>
+               </l>
+               <l>Dread <hi>fill'd my houſe,</hi> whilſt <hi>Jah's face</hi>
+  did <hi>appear,</hi>
+               </l>
+               <l>My <hi>Vitals</hi> all became a <hi>Silver Stream,</hi>
+               </l>
+               <l>In <hi>ſubſtance,</hi> melted not, as in a
+  <hi>Dream,</hi>
+               </l>
+               <l>Nor under <hi>bonds</hi> of <hi>Magick's</hi> gloomy hour;</l>
+               <l>But in true feeling of <hi>Coeleſtial Power.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Jehovah's <hi>Love,</hi> in Life did <hi>move,</hi>
+               </l>
+               <l>and <hi>Wonders</hi> did enquire,</l>
+               <l>Of this <hi>Worm low,</hi> that I might <hi>know</hi>
+               </l>
+               <l>the ſtrength of <hi>Flames</hi> of Fire.</l>
+            </lg>
+            <lg>
+               <pb n="10" facs="tcp:106231:6"/>
+               <l>Standing a little <hi>ſtill,</hi> I heard, as read,</l>
+               <l>A <hi>Voice</hi> aſcending out of <hi>Deeps</hi> in dread.</l>
+               <l>My <hi>Int'rogations</hi> quickly had an <hi>end,</hi>
+               </l>
+               <l>The Word <hi>reſponſive</hi> did me <hi>comprehend;</hi>
+               </l>
+               <l>Things <hi>ſealed up</hi> in Eternal <hi>Decree</hi>
+               </l>
+               <l>From <hi>Ages paſt,</hi> in great fear <hi>compaſt
+  me;</hi>
+               </l>
+               <l>So dreadful was the <hi>Word,</hi> which oft did
+  <hi>make</hi>
+               </l>
+               <l>Me in my motion <hi>ſtagger, reel</hi> and <hi>quake.</hi>
+               </l>
+               <l>Thus ſaid the Lord, <hi>Hear Man,</hi> and I'l
+  <hi>demand,</hi>
+               </l>
+               <l>VVho round the <hi>ſwelling Seas</hi> hath fixt <hi>dry
+  Land?</hi>
+               </l>
+               <l>VVho's he that maketh ev'ry <hi>Fiſh's way?</hi>
+               </l>
+               <l>And, who doth <hi>bar</hi> the <hi>Night,</hi> and <hi>open
+  Day?</hi>
+               </l>
+               <l>VVho hath created <hi>Wonders</hi> in the <hi>Deep?</hi>
+               </l>
+               <l>And who feeds <hi>Worms</hi> which in her bottoms
+  <hi>creep?</hi>
+               </l>
+               <l>Where's <hi>he</hi> who by his <hi>Wiſdoms</hi> words or
+  <hi>wiſhes,</hi>
+               </l>
+               <l>That's able t'anſwer me among the <hi>Fiſhes?</hi>
+               </l>
+               <l>The <hi>Lempits ſpaun,</hi> what Man hath ſeen to
+  <hi>tell?</hi>
+               </l>
+               <l>And how gain'd ſhe her Cov'ring of <hi>a Shell?</hi>
+               </l>
+               <l>VVho gave <hi>her ſtrength</hi> faſt to the <hi>Rock to
+  cleave,</hi>
+               </l>
+               <l>That no Fiſh <hi>elſe</hi> of <hi>life</hi> can her
+  <hi>bereave?</hi>
+               </l>
+               <l>Can Man this <hi>ſecret</hi> unſeal and unlock,</l>
+               <l>Whether another <hi>ſubſtance</hi> than the
+  <hi>Rock</hi>
+               </l>
+               <l>Doth ſhe <hi>feed on?</hi> let him in <hi>Wiſdom</hi>
+  ſpeak,</l>
+               <l>What <hi>Inſtrument</hi> hath ſhe <hi>the Rock</hi> to
+  <hi>break?</hi>
+               </l>
+               <l>VVho knows the <hi>Spaun</hi> which <hi>Cockles</hi> &amp;
+  <hi>Muſles</hi> ſhed,</l>
+               <l>And what's the <hi>ſubſtance</hi> wherewith it is
+  <hi>fed?</hi>
+               </l>
+               <l>VVho knows <hi>the time</hi> of their Natures
+  <hi>conception,</hi>
+               </l>
+               <l>And when's the <hi>moment</hi> brought unto
+  <hi>perfection?</hi>
+               </l>
+               <l>VVho leads the <hi>Wrinckles</hi> over <hi>Mountains</hi>
+  high</l>
+               <l>Of <hi>craggy Rocks,</hi> which in the <hi>Oceans</hi> lye?</l>
+               <l>VVho built the <hi>Houſe</hi> which ſhe <hi>bears</hi> on
+  her <hi>back,</hi>
+               </l>
+               <l>Wherein ſhe's hid, as in a <hi>ſealed</hi> Sack?</l>
+               <l>Her <hi>one Scale</hi> opens and ſhuts; it's her
+  <hi>Door,</hi>
+               </l>
+               <l>Wherewith ſhe ſeals <hi>ſalt moyſture</hi> up in
+  <hi>ſtore,</hi>
+               </l>
+               <l>That when the <hi>Ebb</hi> her Lodge to <hi>Air</hi> doth
+  <hi>give,</hi>
+               </l>
+               <l>Till <hi>Flood</hi> returns ſhe hath enough to
+  <hi>live.</hi>
+               </l>
+               <l>VVas it by <hi>Art</hi> of wiſe <hi>Princes</hi> or
+  <hi>Kings,</hi>
+               </l>
+               <l>Or, who gave to the <hi>flying Fiſh</hi> her
+  <hi>wings?</hi>
+               </l>
+               <l>
+                  <pb n="11" facs="tcp:106231:6"/>VVhich when purſu'd by other
+  <hi>Fiſhes</hi> great,</l>
+               <l>That would her <hi>Life deſtroy,</hi> and <hi>Body
+  eat,</hi>
+               </l>
+               <l>Therewith in ev'ry <hi>Chaſe, Life</hi> to
+  <hi>defend,</hi>
+               </l>
+               <l>Doth out of <hi>Natures</hi> Element <hi>aſcend.</hi>
+               </l>
+               <l>Who gave the <hi>Dolphin</hi> her dear <hi>tender Love,</hi>
+               </l>
+               <l>And made her <hi>ſwifteſt</hi> which in <hi>Seas</hi> do
+  move?</l>
+               <l>Who made <hi>two Fiſhes</hi> Weapons for to <hi>wear,</hi>
+               </l>
+               <l>Whereby they <hi>ſwim,</hi> dreadful with <hi>Sword</hi> and
+  <hi>Spear;</hi>
+               </l>
+               <l>Though being <hi>little,</hi> and in ſubſtance
+  <hi>ſmall,</hi>
+               </l>
+               <l>Yet are a <hi>Terrour</hi> to the mighty <hi>Whale?</hi>
+               </l>
+               <l>VVho makes the <hi>Oyſter</hi> gape with <hi>ardent
+  heat</hi>
+               </l>
+               <l>In <hi>Summer-time,</hi> as if ſhe wanted <hi>meat?</hi>
+               </l>
+               <l>And whilſt yet thus her <hi>ſhells</hi> ſtand <hi>open
+  wide,</hi>
+               </l>
+               <l>Who taught the <hi>Crab-fiſh</hi> to draw near <hi>her
+  ſide,</hi>
+               </l>
+               <l>And with his <hi>claw</hi> a <hi>Stone</hi> therein to
+  <hi>put,</hi>
+               </l>
+               <l>Whereby to ſave <hi>her life,</hi> ſhe cannot
+  <hi>ſhut?</hi>
+               </l>
+               <l>And thus is made the other <hi>Fiſhes Bait,</hi>
+               </l>
+               <l>Which for the ſame takes time to <hi>watch</hi> and
+  <hi>wait.</hi>
+               </l>
+               <l>VVho gave ſome Fiſhes <hi>fins,</hi> others <hi>walking
+  leggs,</hi>
+               </l>
+               <l>And makes ſome <hi>ſpaun,</hi> and others to <hi>lay
+  Eggs?</hi>
+               </l>
+               <l>VVho hatches <hi>Tortles Eggs</hi> hid in the <hi>Sand,</hi>
+               </l>
+               <l>And who ſuſtains their <hi>Life</hi> by Sea and Land?</l>
+               <l>VVho of a <hi>Seed</hi> hath made thee <hi>fleſh</hi> and
+  <hi>bone,</hi>
+               </l>
+               <l>And whereof made I every <hi>precious Stone?</hi>
+               </l>
+               <l>Of what's compos'd <hi>Earth, Trees</hi> and ev'ry
+  <hi>Plant?</hi>
+               </l>
+               <l>And which was firſt, <hi>LIGHT,</hi> or the
+  <hi>ADAMANT?</hi>
+               </l>
+               <l>Who anſwers? What, can Man <hi>reveal</hi> to me</l>
+               <l>The <hi>ſubſtance</hi> whereof I compos'd the
+  <hi>Bee?</hi>
+               </l>
+               <l>Who knows his <hi>Art</hi> which makes the
+  <hi>Honey-comb?</hi>
+               </l>
+               <l>And, who made <hi>Man</hi> before a <hi>Woman's Womb?</hi>
+               </l>
+               <l>VVhat's the <hi>Infuſion,</hi> who can it
+  <hi>reſemble,</hi>
+               </l>
+               <l>Which at the <hi>Cock's-Crow</hi> makes the <hi>Lyon
+  tremble?</hi>
+               </l>
+               <l>The ſame which fills the <hi>Elephant</hi> with
+  <hi>fear,</hi>
+               </l>
+               <l>When that a <hi>Mouſe</hi> before him doth
+  <hi>appear.</hi>
+               </l>
+               <l>VVho taught <hi>Jack-halls</hi> to hunt the <hi>Lyon's
+  prey,</hi>
+               </l>
+               <l>And <hi>Pilot-fiſh,</hi> to lead the <hi>Shark</hi> her
+  way?</l>
+               <l>One knows the <hi>thing,</hi> which to all fleſh ſeems
+  <hi>ſtrange,</hi>
+               </l>
+               <l>How that <hi>Camelion</hi> her ſelf doth <hi>change</hi>
+               </l>
+               <l>
+                  <pb n="12" facs="tcp:106231:7"/>Into <hi>all Colours,</hi> perfect
+  <hi>White</hi> excepted,</l>
+               <l>Which by the <hi>Law</hi> for <hi>Man's meat</hi> is
+  rejected.</l>
+               <l>I bend th'exalted <hi>flames</hi> of <hi>Phoebus</hi> low,</l>
+               <l>
+                  <hi>Autumn</hi> to uſher <hi>Winter's birth</hi> of Snow,</l>
+               <l>Her <hi>Travel,</hi> as a <hi>Veſt,</hi> on Earth doth
+  <hi>ſpread,</hi>
+               </l>
+               <l>Wherein the Night-ſteps of <hi>Wild-beaſts</hi> are
+  read;</l>
+               <l>VVhich though the <hi>girdings</hi> of the <hi>Night</hi>
+  conceals</l>
+               <l>
+                  <hi>Day dawned,</hi> printed <hi>Lines</hi> to Man
+  <hi>reveals.</hi>
+               </l>
+               <l>Though <hi>Lions roar,</hi> and <hi>Wolves</hi> do <hi>howl</hi>
+  and <hi>bark,</hi>
+               </l>
+               <l>
+                  <hi>Panther,</hi> with them I ſent to <hi>Noah's Ark;</hi>
+               </l>
+               <l>A golden <hi>thrid</hi> I've given with <hi>clear
+  ſight,</hi>
+               </l>
+               <l>To meaſure the <hi>blind Bats</hi> and <hi>Screech-Owls</hi>
+  flight,</l>
+               <l>The <hi>Moles</hi> dark paths, a <hi>Laborynth</hi>
+  obſcure,</l>
+               <l>Yet <hi>ſcrutal Worm</hi> doth comprehend it ſure.</l>
+               <l>He which hath <hi>Moſe's Rod</hi> in <hi>Shiloh's
+  Day,</hi>
+               </l>
+               <l>Over a <hi>Rock</hi> can trace a <hi>Serpent's way.</hi>
+               </l>
+               <l>I built the <hi>Seas</hi> on each hand as a <hi>Wall,</hi>
+               </l>
+               <l>Which ſav'd a <hi>Seed,</hi> and on an <hi>Hoſt</hi> did
+  <hi>fall.</hi>
+               </l>
+               <l>Remains there yet another <hi>doubtful thing,</hi>
+               </l>
+               <l>Which He that <hi>made all,</hi> cannot to <hi>light</hi>
+  bring?</l>
+               <l>
+                  <hi>WORM,</hi> where wert thou ere <hi>Adam</hi> ſaw a
+  Day?</l>
+               <l>Or, who hath <hi>counſel'd me</hi> in mine <hi>own
+  way?</hi>
+               </l>
+               <l>Did I chooſe <hi>Compounds,</hi> what man can me
+  <hi>tell,</hi>
+               </l>
+               <l>To make a <hi>ſimple, Poyſon</hi> to <hi>expel?</hi>
+               </l>
+               <l>Or, choſe I <hi>Drugs,</hi> beneath Lifes proper
+  <hi>ſeal,</hi>
+               </l>
+               <l>To make a <hi>Salve</hi> all <hi>Sores</hi> and <hi>Wounds</hi>
+  to heal?</l>
+               <l>Sought I <hi>mixt Medicines</hi> the <hi>Plague</hi> to
+  cure,</l>
+               <l>Or <hi>Lethargy,</hi> which loaths <hi>Purgation</hi> pure?</l>
+               <l>
+                  <hi>Logicians, Lawyers, Chymiſts</hi> and
+  <hi>Star-gazers,</hi>
+               </l>
+               <l>Make <hi>Smoak</hi> in <hi>Tophet,</hi> they of Men
+  <hi>amazers.</hi>
+               </l>
+               <l>
+                  <hi>Arts</hi> painted <hi>Image</hi> with <hi>Apology,</hi>
+               </l>
+               <l>Is but the <hi>Waſh-pot</hi> of <hi>Theology,</hi>
+               </l>
+               <l>Which tracks out <hi>Hirelings</hi> in their <hi>ſubtil
+  traces,</hi>
+               </l>
+               <l>And ſpreads with Dung <hi>Baals Diviners</hi> faces;</l>
+               <l>VVhilſt <hi>Light reveals,</hi> a <hi>ſhovel</hi> is their
+  tongue,</l>
+               <l>Which in the <hi>Bride-groom</hi>'s <hi>room</hi> heaps
+  <hi>noiſom dung</hi>
+               </l>
+               <l>So <hi>dung</hi> for <hi>dung,</hi> repaid's their <hi>equal
+  way,</hi>
+               </l>
+               <l>Till their <hi>work</hi>'s up, and wrath <hi>cuts down</hi>
+  their ſtay.</l>
+               <l>
+                  <pb n="13" facs="tcp:106231:7"/>In number of the <hi>Juſt</hi> they ſhall
+  not riſe;</l>
+               <l>As the tree <hi>falls,</hi> it ſo conſuming
+  <hi>lies.</hi>
+               </l>
+               <l>For <hi>Mammon's</hi> ſake they have the <hi>Juſt
+  oppreſt,</hi>
+               </l>
+               <l>The <hi>Simple</hi> to deceive, my <hi>Law</hi> they
+  <hi>wreſt.</hi>
+               </l>
+               <l>They rob the <hi>Poor,</hi> and raven <hi>Widdows</hi>
+  bread,</l>
+               <l>With Joy of <hi>Orphants ſpoils</hi> they <hi>crown</hi> their
+  <hi>head.</hi>
+               </l>
+               <l>Wherefore's I live, I'll <hi>fill</hi> their <hi>Cup</hi> with
+  <hi>Woe,</hi>
+               </l>
+               <l>Th' effects of <hi>Vengeance</hi> ſhall their <hi>banks</hi>
+  o'reflow.</l>
+               <l>And he which ſlips the <hi>Day</hi> giv'n to
+  <hi>repent,</hi>
+               </l>
+               <l>In <hi>Judgment's</hi> hour from <hi>hope</hi> of <hi>Life,</hi>
+  I'll <hi>rent.</hi>
+               </l>
+               <l>Where's the <hi>Philoſopher?</hi> what hath he
+  <hi>found,</hi>
+               </l>
+               <l>Raking up <hi>Rubbiſh</hi> of <hi>black</hi> Egypt's
+  <hi>ground?</hi>
+               </l>
+               <l>The cauſe of <hi>courſes natural,</hi> which move</l>
+               <l>With all <hi>effects,</hi> ſpring from a root of
+  <hi>Love,</hi>
+               </l>
+               <l>VVhich <hi>Wiſdom</hi> ſwaddles with a <hi>golden
+  band,</hi>
+               </l>
+               <l>He builds not <hi>Babel,</hi> nor truſts <hi>Art</hi> of
+  <hi>hand.</hi>
+               </l>
+               <l>VVheels out of <hi>frame</hi> do make the whole work jar,</l>
+               <l>Fractions <hi>purſue</hi> whilſt <hi>Man's</hi> bound in a
+  ſnare,</l>
+               <l>Through what his <hi>Love</hi> unnatural <hi>compounds</hi>
+               </l>
+               <l>Of <hi>Roots, Stones, Oare,</hi> and <hi>Dirt</hi> of divers
+  grounds.</l>
+               <l>It's but <hi>one</hi> ſimple <hi>Virtue</hi> doth
+  <hi>unfold,</hi>
+               </l>
+               <l>VVhich touching <hi>Mettals</hi> makes all <hi>pure
+  Gold.</hi>
+               </l>
+               <l>VVho ſtudies <hi>Wiſdom?</hi> there's at each <hi>man's</hi>
+  ſtall</l>
+               <l>Teaching a <hi>Seed,</hi> he which hath <hi>one</hi> hath
+  <hi>all;</hi>
+               </l>
+               <l>But Man whoſe <hi>Wiſdom</hi> doth <hi>exalt</hi> his
+  thought,</l>
+               <l>VVithout the <hi>Key</hi> of <hi>Rocks,</hi> his <hi>All</hi> is
+  nought;</l>
+               <l>His <hi>Rule, Progreſſion</hi> is; his <hi>own
+  Reduction,</hi>
+               </l>
+               <l>His <hi>Joy</hi> and <hi>Pleaſure</hi> prints his own
+  <hi>Deſtruction.</hi>
+               </l>
+               <l>VVho anſwers me among the <hi>Fowls</hi> of
+  <hi>Heaven,</hi>
+               </l>
+               <l>Which in the <hi>Ark</hi> were <hi>ſav'd</hi> by numbers
+  <hi>ſeven?</hi>
+               </l>
+               <l>Since <hi>Noah's</hi> day, who all their encreaſe
+  <hi>took,</hi>
+               </l>
+               <l>And <hi>regiſtred</hi> their <hi>numbers</hi> in a
+  <hi>Book?</hi>
+               </l>
+               <l>Who <hi>couples</hi> them in <hi>ſeaſon,</hi> as yoak't
+  <hi>even?</hi>
+               </l>
+               <l>I'l yet demand of <hi>Man</hi> concerning <hi>ſeven.</hi>
+               </l>
+               <l>Who gave the <hi>Wren</hi> her <hi>treble Voice</hi> to
+  ſing,</l>
+               <l>Conſorting <hi>Muſick</hi> with the <hi>Timbrel
+  ſtring;</hi>
+               </l>
+               <l>And in <hi>much Joy,</hi> ſav'd from an <hi>evil
+  chance,</hi>
+               </l>
+               <l>Makes her <hi>in Summer</hi> in Vine branches
+  <hi>dance?</hi>
+               </l>
+               <l>
+                  <pb n="14" facs="tcp:106231:8"/>The <hi>Red-breaſt's</hi> ſhril Notes
+  ſinging on a <hi>Rock,</hi>
+               </l>
+               <l>Sounds as a <hi>Shepherd piping</hi> to his <hi>Flock;</hi>
+               </l>
+               <l>VVho gave the <hi>love</hi> which ſhe <hi>bears</hi> in her
+  <hi>breaſt,</hi>
+               </l>
+               <l>And <hi>Innocency</hi> for a ſeat of <hi>reſt?</hi>
+               </l>
+               <l>VVho makes the <hi>Thruſh</hi> in <hi>Spring-time</hi> to
+  rejoyce,</l>
+               <l>And gifted her with a <hi>loud chanting Voice?</hi>
+               </l>
+               <l>VVho gave the <hi>Hand</hi> her <hi>quavering Keys</hi> to
+  feel,</l>
+               <l>And <hi>guides</hi> the ſame, which turns her
+  <hi>Cymbal-wheel?</hi>
+               </l>
+               <l>VVho <hi>Black-birds</hi> whiſtle, which makes <hi>Woods</hi>
+  to ring?</l>
+               <l>Sweet <hi>Valleys</hi> eccho whilſt yet ſhe doth
+  <hi>ſing,</hi>
+               </l>
+               <l>In <hi>Deſerts;</hi> who from under <hi>ſhadows</hi>
+  mute</l>
+               <l>Raiſeth her <hi>Voice</hi> to ſing unto the
+  <hi>Lute?</hi>
+               </l>
+               <l>VVho fills the <hi>Nightingale</hi> with <hi>Harmony,</hi>
+               </l>
+               <l>Her Tune <hi>tranſcending</hi> all in <hi>Air</hi> that
+  fly?</l>
+               <l>VVho ſtrain'd her <hi>ſeven ſtrings</hi> unto perfect
+  <hi>tryal?</hi>
+               </l>
+               <l>Which makes <hi>the Muſick</hi> on her well ſet
+  <hi>Vyal;</hi>
+               </l>
+               <l>VVho makes the <hi>Lark</hi> aſcend with <hi>out-ſtretcht
+  wing,</hi>
+               </l>
+               <l>A Song of <hi>Melody</hi> on high <hi>to ſing?</hi>
+               </l>
+               <l>Who hath her <hi>Organ</hi> unto <hi>ſweet Notes</hi>
+  bound,</l>
+               <l>And <hi>blows</hi> the <hi>Bellows</hi> for her <hi>Pipe</hi> to
+  ſound?</l>
+               <l>And who hath given unto the <hi>Turtle-Dove</hi>
+               </l>
+               <l>Her mind of <hi>Chaſtity</hi> and <hi>pure Love,</hi>
+               </l>
+               <l>And made her of her <hi>Mate</hi> ſo dear a
+  <hi>Lover,</hi>
+               </l>
+               <l>That chuſing <hi>ONE,</hi> ſhe'l never chuſe
+  <hi>Another?</hi>
+               </l>
+               <l>Th'united <hi>Harmony</hi> let it be penn'd;</l>
+               <l>
+                  <hi>Muſical Conſort</hi> never ſhall have
+  <hi>end,</hi>
+               </l>
+               <l>Who haſtes theſe <hi>ſeven</hi> in flight with
+  wide-<hi>ſpread wings</hi>
+               </l>
+               <l>In <hi>Orion's houſe</hi> to feaſt on <hi>fleſh</hi> of
+  <hi>Kings?</hi>
+               </l>
+               <l>Sit ſilent <hi>Sodom,</hi> for it's <hi>Sion's Seed,</hi>
+               </l>
+               <l>Which in the <hi>ſeven-ſeal'd Roll</hi> do run and read.</l>
+               <l>I gave my ſervant <hi>Moſes</hi> a pure meaſure,</l>
+               <l>But now to <hi>Shiloh</hi> a more <hi>glorious
+  Treaſure;</hi>
+               </l>
+               <l>VVhoſe Day ſhall give an <hi>Holy Seed</hi> to ſee,</l>
+               <l>Unto him gather'd <hi>multitudes</hi> to be.</l>
+               <l>Can Man yet anſwer Me in <hi>open fields,</hi>
+               </l>
+               <l>Amongſt the <hi>tender Plants</hi> which the Earth
+  <hi>yeelds?</hi>
+               </l>
+               <l>Who makes the <hi>Graſs</hi> to grow, and <hi>Plant</hi> to
+  ſpring,</l>
+               <l>The <hi>Lilly ſeed,</hi> and ev'ry <hi>fragrant
+  thing?</hi>
+               </l>
+               <l>
+                  <pb n="15" facs="tcp:106231:8"/>Can he by all his <hi>Wiſdom, Will,</hi> or
+  <hi>Power,</hi>
+               </l>
+               <l>VVith all his <hi>Compounds,</hi> new, <hi>create</hi> one
+  <hi>Flower,</hi>
+               </l>
+               <l>VVhich of Earth's <hi>ſubſtance</hi> ſhall
+  <hi>partake</hi> and <hi>feed,</hi>
+               </l>
+               <l>And <hi>flouriſh,</hi> yeelding perfect <hi>ſeeding
+  Seed?</hi>
+               </l>
+               <l>Can he the <hi>nature</hi> of the <hi>Lilly's Seed,</hi>
+               </l>
+               <l>Change into an <hi>offenſive</hi> hurtful <hi>Weed?</hi>
+               </l>
+               <l>Or elſe the <hi>Virtue</hi> of the
+  <hi>Primroſe-plant,</hi>
+               </l>
+               <l>And <hi>Violet</hi> by all his <hi>Wiſdom, ſcant?</hi>
+               </l>
+               <l>How <hi>knows</hi> he <hi>when</hi> the <hi>virtu's</hi> more or
+  leſs?</l>
+               <l>Hath he <hi>to Curſe,</hi> and have not I to
+  <hi>BLESS?</hi>
+               </l>
+               <l>Knows he that <hi>Plant</hi> which grows in <hi>Woods</hi>
+  obſcure,</l>
+               <l>Whoſe root of <hi>Peſtilence</hi> is perfect
+  <hi>cure?</hi>
+               </l>
+               <l>I've ſeen <hi>Phyſicians, Herbals</hi> large, which want</l>
+               <l>Deſcription of that <hi>fragrant Root</hi> and
+  <hi>Plant:</hi>
+               </l>
+               <l>Doth he know which of <hi>ev'ry Seed</hi> ſhall
+  <hi>grow,</hi>
+               </l>
+               <l>Whilſt yet <hi>in hope</hi> he ſpreads his hand <hi>to
+  ſow?</hi>
+               </l>
+               <l>Or when in <hi>blade</hi> ſprang up <hi>new-ſhot</hi> in
+  <hi>ear,</hi>
+               </l>
+               <l>Is he <hi>aſſur'd</hi> which <hi>Reed</hi> ſhall
+  encreaſe <hi>bear?</hi>
+               </l>
+               <l>Who dwells <hi>in Deeps,</hi> where <hi>Virtues life</hi>
+  repoſes,</l>
+               <l>Hid in the <hi>Root,</hi> which <hi>odours</hi> gives to
+  <hi>Roſes?</hi>
+               </l>
+               <l>VVho knows where <hi>Pleiades</hi> hath built his
+  <hi>Bowre</hi>
+               </l>
+               <l>Of <hi>Spices,</hi> deck't with ev'ry <hi>fragrant
+  Flower?</hi>
+               </l>
+               <l>VVho in the Earth hath digg'd <hi>ſo deep</hi> to ſee</l>
+               <l>Him cloath'd with <hi>Sap</hi> of ev'ry <hi>fruitful
+  Tree?</hi>
+               </l>
+               <l>VVho ſpreads the <hi>Vine-leaf</hi> as a
+  <hi>Summer-ſhade,</hi>
+               </l>
+               <l>And as with <hi>Jewels,</hi> doth her branches
+  <hi>lade?</hi>
+               </l>
+               <l>She proſpers pleaſant in the <hi>Valleys</hi> low,</l>
+               <l>In <hi>Vintage</hi> making <hi>Fats</hi> to overflow.</l>
+               <l>Can Man, whoſe <hi>Study's</hi> but as mudled mire,</l>
+               <l>Make <hi>Plants</hi> in <hi>Eden</hi> ſpring of <hi>ſparks
+  of fire?</hi>
+               </l>
+               <l>Whilſt <hi>vertuous Shiloh,</hi> which in <hi>flames</hi>
+  repoſes,</l>
+               <l>Of <hi>burning Coals</hi> makes <hi>ſprout</hi> forth
+  <hi>Damask Roſes,</hi>
+               </l>
+               <l>Which <hi>Mortals</hi> know not with which <hi>hand</hi> to
+  <hi>handle,</hi>
+               </l>
+               <l>Whoſe <hi>Light's</hi> thick <hi>Darkneſs,</hi> ſpread by
+  <hi>Shiloh's</hi> Candle:</l>
+               <l>To whom <hi>all ſouls</hi> muſt come by
+  <hi>Transformation,</hi>
+               </l>
+               <l>To know the Work <hi>myſterious</hi> of
+  <hi>Salvation,</hi>
+               </l>
+               <l>He's full <hi>poſſeſt,</hi> which in his right hand
+  reads</l>
+               <l>His <hi>Line</hi> of <hi>Life</hi> unto <hi>Perfection</hi>
+  leads;</l>
+               <l>
+                  <pb n="16" facs="tcp:106231:9"/>Which <hi>ſeals</hi> the <hi>doom</hi> of
+  his moſt <hi>woful ſtate,</hi>
+               </l>
+               <l>Whom <hi>death</hi> cuts off, in <hi>ſin's chains</hi>
+  captivate.</l>
+               <l>Who <hi>anſwers</hi> me in word of <hi>Viſitation,</hi>
+               </l>
+               <l>Which perfect <hi>tryal</hi> brings on ev'ry
+  <hi>Nation?</hi>
+               </l>
+               <l>Who can <hi>ſet bars</hi> by <hi>ſtrength</hi> of his
+  <hi>right hand</hi>
+               </l>
+               <l>To bolt out <hi>famine,</hi> ſent to <hi>ſmite</hi> a
+  <hi>Land?</hi>
+               </l>
+               <l>Where is <hi>that King</hi> which on the <hi>Earth</hi> doth
+  <hi>reign,</hi>
+               </l>
+               <l>Which <hi>fire, ſword,</hi> and <hi>plague</hi> can
+  <hi>bind</hi> and <hi>chain?</hi>
+               </l>
+               <l>And who can <hi>ſay,</hi> but <hi>thoſe,</hi> and many
+  <hi>more</hi>
+               </l>
+               <l>My <hi>Judgements,</hi> yet a <hi>little</hi> held in
+  <hi>ſtore</hi>
+               </l>
+               <l>Shall <hi>quickly</hi> ſweep the <hi>earth,</hi> and in this
+  <hi>wiſe</hi>
+               </l>
+               <l>Cut off <hi>all lovers</hi> of their <hi>luſts</hi> and
+  <hi>lies?</hi>
+               </l>
+               <l>VVho numbred hath the <hi>arrows</hi> of my <hi>quiver,</hi>
+               </l>
+               <l>Prepar'd for <hi>battle, Jacob</hi> to <hi>deliver?</hi>
+               </l>
+               <l>Have I not <hi>ſaid,</hi> there is for him <hi>a day</hi>
+               </l>
+               <l>At <hi>hand,</hi> and am I yet to <hi>ſeek</hi> the
+  <hi>way</hi>
+               </l>
+               <l>In which mine own <hi>unſearchable Decree</hi>
+               </l>
+               <l>In all earth's <hi>compaſs</hi> perfected <hi>ſhall
+  be?</hi>
+               </l>
+               <l>Can man's <hi>frail life</hi> and <hi>ſtrength</hi> on his
+  back <hi>bear</hi>
+               </l>
+               <l>The weight of my <hi>ſheild, buckler, ſword,</hi> and
+  <hi>ſpear?</hi>
+               </l>
+               <l>Let vain man <hi>anſwer</hi> in his <hi>pride</hi> and
+  <hi>lust,</hi>
+               </l>
+               <l>VVho made <hi>all Nations</hi> in <hi>ONE</hi> of the
+  <hi>duſt?</hi>
+               </l>
+               <l>Or, who gave <hi>Counſel,</hi> or <hi>materials</hi>
+  brought,</l>
+               <l>To <hi>aſſiſt me</hi> in all that I have
+  <hi>wrought?</hi>
+               </l>
+               <l>VVill he not <hi>underſtand</hi> amid'ſt his joy,</l>
+               <l>That he which <hi>made,</hi> can <hi>ALL</hi> at <hi>once</hi>
+  deſtroy?</l>
+               <l>
+                  <hi>Kings, Princes, Nations,</hi> all degenerated,</l>
+               <l>Have they more <hi>ſtrength</hi> than what's of
+  <hi>duſt</hi> created?</l>
+               <l>To <hi>David's</hi> ſling, what is <hi>Goliah</hi>'s
+  ſpear?</l>
+               <l>If I ſtrike <hi>Dread,</hi> who's he that ſhall not
+  <hi>fear?</hi>
+               </l>
+               <l>I could yet <hi>queſtion man,</hi> time without
+  <hi>end,</hi>
+               </l>
+               <l>VVhilſt, in a <hi>word,</hi> all things I
+  <hi>comprehend;</hi>
+               </l>
+               <l>But that in folly he <hi>himſelf</hi> may <hi>know,</hi>
+               </l>
+               <l>I'll ſum <hi>up all</hi> in <hi>ONE</hi> of what's
+  <hi>below.</hi>
+               </l>
+               <l>Can man whoſe <hi>contract</hi> in <hi>death's-day</hi>
+  ſtands <hi>dated,</hi>
+               </l>
+               <l>
+                  <hi>Create</hi> a <hi>work</hi> of <hi>what's not</hi> yet
+  <hi>created?</hi>
+               </l>
+               <l>VVorm, <hi>where</hi> wert <hi>thou</hi> before the ſun
+  <hi>aſcended?</hi>
+               </l>
+               <l>Or e're that I my <hi>first days work</hi> had ended?</l>
+               <l>
+                  <pb n="17" facs="tcp:106231:9"/>Or, <hi>where</hi> when the firſt <hi>fixed
+  Stars</hi> did ſing</l>
+               <l>A <hi>joyful Song</hi> of <hi>Praiſe</hi> to their <hi>high
+  King?</hi>
+               </l>
+               <l>Moreover, I demand vain man to <hi>prove,</hi>
+               </l>
+               <l>Can he yet <hi>anſwer me</hi> in <hi>Heav'ns</hi> above?</l>
+               <l>Can man the <hi>Storms</hi> rebuke? or, can he
+  <hi>check</hi>
+               </l>
+               <l>The <hi>moving Winds?</hi> are <hi>Whirlewinds</hi> at his
+  <hi>beck?</hi>
+               </l>
+               <l>Can He the <hi>Heavens</hi> Influences ſweet</l>
+               <l>
+                  <hi>Turn back,</hi> and cauſe that in the <hi>ſeaſon
+  meet,</hi>
+               </l>
+               <l>Nor <hi>Heat,</hi> nor <hi>Cold,</hi> times <hi>tepid, Dews</hi>
+  nor <hi>Rain</hi>
+               </l>
+               <l>Shall be in all ſucceeding <hi>dayes</hi> again?</l>
+               <l>Can Man Heav'ns <hi>bright Clouds</hi> in his weak hand
+  <hi>hold?</hi>
+               </l>
+               <l>Or, all the moving <hi>Conſtellations</hi> fold,</l>
+               <l>And <hi>roul up</hi> in a <hi>ſecret place</hi> to
+  <hi>hide</hi>
+               </l>
+               <l>Them, where they <hi>never more</hi> ſhall be
+  <hi>espied?</hi>
+               </l>
+               <l>Or, is He ſuch a <hi>Powerful Commander,</hi>
+               </l>
+               <l>That at <hi>his beck</hi> all <hi>fixed Stars</hi> ſhall
+  wander?</l>
+               <l>Can <hi>mortal Man</hi> in his corrupted will</l>
+               <l>Stop the <hi>Moon's courſe,</hi> or, make the <hi>Sun</hi>
+  ſtand ſtill?</l>
+               <l>Can he the <hi>Morning ſpot,</hi> or the <hi>Sun</hi>
+  ſtain?</l>
+               <l>Or, can he <hi>Thunders</hi> bind, or <hi>Lightnings</hi>
+  chain?</l>
+               <l>Can Man his <hi>hand</hi> to the <hi>third Heav'ns</hi>
+  ſtreatch,</l>
+               <l>And therewith <hi>violently</hi> make a <hi>breach</hi>
+               </l>
+               <l>Through <hi>bars</hi> of <hi>Braſs,</hi> which <hi>bolt</hi>
+  faſt <hi>doors</hi> of <hi>Steel,</hi>
+               </l>
+               <l>Much more in <hi>ſubſtance</hi> than Earth's <hi>Orb</hi> or
+  <hi>Wheel,</hi>
+               </l>
+               <l>And ſo lay <hi>waſte</hi> in his <hi>fond will</hi> and
+  <hi>pleaſure,</hi>
+               </l>
+               <l>What's there <hi>contain'd</hi> of <hi>Jacob's</hi> certain
+  <hi>treaſure?</hi>
+               </l>
+               <l>Could he do <hi>all theſe,</hi> ſtill I'm far
+  <hi>above</hi>
+               </l>
+               <l>The <hi>Heav'n</hi> of <hi>Heav'ns,</hi> where nought beſides
+  doth move,</l>
+               <l>Can Man cut off <hi>Strong-fire-all's</hi> renting
+  <hi>Claws?</hi>
+               </l>
+               <l>Or draw his <hi>Teeth</hi> out of his <hi>burning Jaws?</hi>
+               </l>
+               <l>Doth Man's <hi>Eye</hi> make him <hi>tremble</hi> with a
+  <hi>look?</hi>
+               </l>
+               <l>Or, can he <hi>tear</hi> his <hi>heart</hi> out with a
+  <hi>hook?</hi>
+               </l>
+               <l>Each of his <hi>Joynts</hi> are as an <hi>Iron hill,</hi>
+               </l>
+               <l>His <hi>Teeth</hi> grinds <hi>Carcaſſes,</hi> as in a
+  <hi>Mill;</hi>
+               </l>
+               <l>His <hi>Noſtrils flames</hi> ſeeth in his <hi>Cauldron
+  Whales,</hi>
+               </l>
+               <l>And <hi>fryes</hi> the <hi>fleſh</hi> of <hi>Kings</hi> in his
+  caſt <hi>Scales:</hi>
+               </l>
+               <l>He <hi>gapes</hi> like <hi>Gulphs,</hi> as if he <hi>hungry</hi>
+  were,</l>
+               <l>Thirſting for <hi>Blood,</hi> he <hi>roars</hi> the
+  <hi>Prey</hi> to <hi>tear;</hi>
+               </l>
+               <l>
+                  <pb n="18" facs="tcp:106231:10"/>His <hi>Furnace fire</hi> in
+  <hi>Brain-pan</hi> of his <hi>head,</hi>
+               </l>
+               <l>Boyls <hi>Cauls</hi> and <hi>Blood</hi> of every heart, <hi>fat
+  fed.</hi>
+               </l>
+               <l>Can Man his <hi>brazen skin</hi> rent as a <hi>rag?</hi>
+               </l>
+               <l>Or <hi>joynt</hi> his <hi>tayl,</hi> which <hi>Ocean's</hi>
+  deeps do drag?</l>
+               <l>He waves his <hi>Wings</hi> over his <hi>Steel-barr'd
+  Cage,</hi>
+               </l>
+               <l>And <hi>Storms</hi> impetuous move in <hi>roaring rage;</hi>
+               </l>
+               <l>The foaming <hi>Seas,</hi> like <hi>Mountains</hi> full of
+  breaches,</l>
+               <l>His Motion <hi>turbulent,</hi> her <hi>Womb's deeps</hi>
+  reaches;</l>
+               <l>His glazed <hi>ſparkling Eyes</hi> appear moſt
+  <hi>fierce;</hi>
+               </l>
+               <l>Nor <hi>Shot,</hi> nor <hi>Weapon</hi> can his Body
+  <hi>pierce;</hi>
+               </l>
+               <l>
+                  <hi>Steel, Braſs</hi> and <hi>Iron</hi> unto him are
+  <hi>ſtraws,</hi>
+               </l>
+               <l>Their ſtrength <hi>ſev'n times</hi> compos'd's not like his
+  <hi>Claws,</hi>
+               </l>
+               <l>He ſhakes his <hi>Back,</hi> which makes his <hi>Scales</hi>
+  to <hi>rattle,</hi>
+               </l>
+               <l>Like <hi>ſhouts</hi> and <hi>claſhings</hi> of a
+  <hi>dreadful Battle:</hi>
+               </l>
+               <l>Hath Man yet ſeen the <hi>meaſure</hi> of his
+  <hi>Bow,</hi>
+               </l>
+               <l>And <hi>Arrows</hi> length? Or, how came he <hi>to know</hi>
+               </l>
+               <l>His <hi>Golden Shrouds,</hi> Six over <hi>ev'ry
+  ſhade,</hi>
+               </l>
+               <l>The <hi>Seventh</hi> ſhuts in the <hi>Mould</hi> that he hath
+  <hi>made?</hi>
+               </l>
+               <l>He walks <hi>in ſecret</hi> in the <hi>deepeſt
+  dark,</hi>
+               </l>
+               <l>And leaves his <hi>Relique,</hi> it's a fiery
+  <hi>ſpark;</hi>
+               </l>
+               <l>He marks his <hi>Path</hi> out by a <hi>Line</hi> obſcure,</l>
+               <l>If <hi>two</hi> would walk therein, <hi>one</hi>'s ſnar'd
+  moſt <hi>ſure.</hi>
+               </l>
+               <l>Can he whoſe Fame ſpreads as <hi>Ahithophel,</hi>
+               </l>
+               <l>Reach round that <hi>Sphear</hi> which is his loweſt
+  <hi>Cell?</hi>
+               </l>
+               <l>All's mean to <hi>me,</hi> which in thine <hi>Ear</hi> I
+  ſound;</l>
+               <l>
+                  <hi>Heights</hi> reach not <hi>me,</hi> nor <hi>Deeps</hi> the
+  moſt profound.</l>
+               <l>VVorm, where <hi>wert thou</hi> before <hi>Time</hi> did
+  commence,</l>
+               <l>And, what ſtood then <hi>againſt me</hi> as defence?</l>
+               <l>VVho then was with me <hi>counſelling</hi> in
+  <hi>decree?</hi>
+               </l>
+               <l>Or, what, doth Man think <hi>Time</hi> hath alter'd
+  <hi>Me?</hi>
+               </l>
+               <l>Man's mighty <hi>Mountain</hi>'s now to me <hi>no more</hi>
+               </l>
+               <l>Than 'twas ere Light paſt through <hi>Heav'ns</hi> open
+  dore.</l>
+               <l>I ſee the <hi>Counſels, Leagues,</hi> and <hi>Pow'rs</hi> of
+  <hi>Hell,</hi>
+               </l>
+               <l>
+                  <hi>Satan</hi> and his <hi>Angels</hi> in that <hi>black
+  Cell:</hi>
+               </l>
+               <l>The <hi>Divil</hi> had <hi>time</hi> with him that firſt did
+  <hi>ſin,</hi>
+               </l>
+               <l>And before <hi>that</hi> his <hi>reign</hi> did not begin.</l>
+               <l>VVho yet, as <hi>Prince</hi> in <hi>Earth</hi> and <hi>Air</hi>
+  doth reign,</l>
+               <l>But is appointed unto <hi>Seal</hi> and <hi>Chain.</hi>
+               </l>
+               <l>
+                  <pb n="19" facs="tcp:106231:10"/>
+                  <hi>Death</hi> and <hi>Hell's Leagues,</hi>
+  I'le <hi>diſanul</hi> and <hi>ſave</hi>
+               </l>
+               <l>
+                  <hi>Jacob,</hi> from her wide <hi>Jaws</hi> and loathſom
+  <hi>Cave;</hi>
+               </l>
+               <l>It's One which all <hi>performs,</hi> who will not
+  <hi>ſcant</hi>
+               </l>
+               <l>The <hi>juſt fulfilling</hi> of his <hi>Covenant.</hi>
+               </l>
+               <l>I'm He in <hi>Judgment</hi> and <hi>Truth,</hi> changing
+  never,</l>
+               <l>Yeſterday the <hi>ſame,</hi> this <hi>day,</hi> and for
+  <hi>ever.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>God's glorious <hi>Sound</hi> did me <hi>confound,</hi>
+               </l>
+               <l>yea, and my <hi>Bowels</hi> break;</l>
+               <l>Yet then as <hi>I,</hi> moſt low did <hi>lye,</hi>
+               </l>
+               <l>his <hi>Mercy</hi> heard me ſpeak.</l>
+            </lg>
+            <lg>
+               <l>Oh! Thou which <hi>rent'ſt</hi> the <hi>Heav'ns,</hi> and
+  mak'ſt the <hi>Earth</hi> to <hi>reel,</hi>
+               </l>
+               <l>And <hi>overturneſt</hi> all, like as a running
+  <hi>Wheele,</hi>
+               </l>
+               <l>Hear me, O <hi>GOD,</hi> I pray, a little to
+  <hi>declare,</hi>
+               </l>
+               <l>Who am in <hi>all things</hi> before Thee <hi>nak'd</hi> and
+  <hi>bare.</hi>
+               </l>
+               <l>Thou meaſur'ſt <hi>Deeps</hi> beneath as the <hi>bredth</hi>
+  of a <hi>hair,</hi>
+               </l>
+               <l>And as a <hi>ſpan,</hi> the <hi>Heav'ns high,</hi> moſt
+  <hi>bright</hi> and <hi>fair;</hi>
+               </l>
+               <l>Thy preſent <hi>Word</hi> and <hi>Power</hi> mine <hi>inward
+  parts</hi> doth <hi>break,</hi>
+               </l>
+               <l>Oh! hear me yet a <hi>little,</hi> let me <hi>further
+  ſpeak;</hi>
+               </l>
+               <l>Mine <hi>eyes,</hi> mine <hi>eyes</hi> run down, this
+  <hi>Flame</hi> my <hi>heart</hi> doth <hi>melt,</hi>
+               </l>
+               <l>I ſow my <hi>tears</hi> as <hi>ſeed,</hi> ſince this Thy
+  <hi>Pow'r</hi> I've felt;</l>
+               <l>I'm very <hi>poor</hi> and <hi>low,</hi> like the <hi>leaſt
+  worm</hi> that creeps</l>
+               <l>In th'<hi>Ocean's belly,</hi> ſwallowed with the <hi>immenſe
+  Deeps:</hi>
+               </l>
+               <l>O <hi>GOD</hi> before <hi>Thee</hi> what am I? hear me, <hi>I
+  pray,</hi>
+               </l>
+               <l>And till I have <hi>declar'd,</hi> turn not <hi>thy Face
+  away.</hi>
+               </l>
+               <l>My <hi>bredth</hi> is as a <hi>Razor's edge,</hi> that's
+  <hi>newly ſet,</hi>
+               </l>
+               <l>My <hi>height,</hi> as the <hi>bredth</hi> of a <hi>Needle's
+  point</hi> ſharp <hi>whet;</hi>
+               </l>
+               <l>Yea, comprehended is my <hi>ſtature</hi> with a
+  <hi>thought,</hi>
+               </l>
+               <l>Unto thy <hi>Greatneſs,</hi> I'm, but as a thing of
+  nought.</l>
+               <l>I <hi>couch,</hi> I <hi>bend,</hi> I <hi>bow</hi> before thee in
+  thy <hi>Throne,</hi>
+               </l>
+               <l>Thy <hi>Reign</hi> is <hi>Pow'r</hi> and <hi>Life,</hi> to
+  corrupt man unknown.</l>
+            </lg>
+            <lg>
+               <pb n="20" facs="tcp:106231:11"/>
+               <head>And the Lord anſwered me through the Clouds of the Morning
+  Dewes, in a clear ſerene Day of the early Spring.</head>
+               <l>THou Son of <hi>Man,</hi> lift up thine <hi>head</hi> and
+  <hi>hear,</hi>
+               </l>
+               <l>Thou <hi>naked art,</hi> therefore I ſay, <hi>draw
+  near.</hi>
+               </l>
+               <l>Like as a <hi>broken Bow</hi> thou ſhalt not
+  <hi>ſtart</hi>
+               </l>
+               <l>From my <hi>Teſtimony,</hi> written in thy <hi>heart;</hi>
+               </l>
+               <l>But with <hi>thy ſtrength,</hi> enclin'd in <hi>pure
+  fear</hi>
+               </l>
+               <l>And <hi>dread,</hi> thou ſhalt witneſs of my <hi>NAME
+  bear.</hi>
+               </l>
+               <l>Moreover, <hi>Son of Man,</hi> give <hi>ear</hi> to me,</l>
+               <l>And I will make thee <hi>Counſels</hi> deep to ſee:</l>
+               <l>Behold the <hi>Drop</hi> of <hi>Blood</hi> which in the Earth
+  doth lye,</l>
+               <l>Hath from her <hi>drowning Deeps</hi> raiſed a Cry,</l>
+               <l>Which like as <hi>Lightning's arrows</hi> moſt ſwift
+  are,</l>
+               <l>It hath <hi>aſcended</hi> above ev'ry Star;</l>
+               <l>And pierc'd <hi>Heav'ns barrs,</hi> and mov'd me in my
+  Throne,</l>
+               <l>In Righteouſneſs to <hi>weigh</hi> the <hi>Cry</hi> and
+  <hi>Groan:</hi>
+               </l>
+               <l>But I the <hi>LORD</hi> which <hi>Counſel</hi> do
+  <hi>reveal,</hi>
+               </l>
+               <l>Do charge thee that the <hi>Secrets</hi> thou doſt
+  <hi>ſeal,</hi>
+               </l>
+               <l>From ev'ry <hi>unclean, corrupt, vult'rous eye,</hi>
+               </l>
+               <l>For whom's the <hi>WO</hi> and <hi>Dregs</hi> of
+  <hi>miſery;</hi>
+               </l>
+               <l>How it ſhall be <hi>ſay not;</hi> dwell thou in
+  <hi>Me,</hi>
+               </l>
+               <l>Who hath a <hi>Sword</hi> and <hi>Scale</hi> giv'n thee <hi>to
+  ſee,</hi>
+               </l>
+               <l>With many other <hi>Inſtruments</hi> of <hi>praiſe,</hi>
+               </l>
+               <l>Held in <hi>one hand</hi> that <hi>Drop</hi> of <hi>Blood</hi>
+  to raiſe;</l>
+               <l>But thus thou may'ſt <hi>propheſie</hi> and
+  <hi>diſpenſe,</hi>
+               </l>
+               <l>A <hi>Drop</hi> of <hi>Blood</hi> ſhall be a <hi>Sea
+  immenſe;</hi>
+               </l>
+               <l>A <hi>little Stone</hi> ſhall be an <hi>open
+  Fountain,</hi>
+               </l>
+               <l>And a <hi>dry bone</hi> ſhall be a <hi>mighty
+  Mountain.</hi>
+               </l>
+               <l>Moreover, in <hi>a day</hi> it comes <hi>to paſſe,</hi>
+               </l>
+               <l>A <hi>Diamond ſpark</hi> ſhall cut an <hi>Earth</hi> of
+  <hi>Braſſe,</hi>
+               </l>
+               <l>And all the <hi>Waters</hi> under <hi>Heav'ns</hi> divide</l>
+               <l>That <hi>open paſſage</hi> be from <hi>ſide</hi> to
+  <hi>ſide</hi>
+               </l>
+               <l>Of every <hi>Iſland,</hi> and all <hi>firm Lands,</hi>
+               </l>
+               <l>A mighty <hi>Hoſt</hi> to march in <hi>Troops</hi> and
+  <hi>Bands,</hi>
+               </l>
+               <l>
+                  <pb n="21" facs="tcp:106231:11"/>Raiſ'd of a <hi>Root,</hi> Earth's
+  <hi>Globe</hi> to compaſs round,</l>
+               <l>To ſeek the <hi>Loſt</hi> until that <hi>it</hi> be
+  found;</l>
+               <l>And in that Day ſhall be a <hi>dreadful Wonder,</hi>
+               </l>
+               <l>A <hi>panting Worm</hi> ſhall be a <hi>Voice of
+  Thunder;</hi>
+               </l>
+               <l>The lower cloudy <hi>Heav'n</hi>'s compos'd of
+  <hi>Steel,</hi>
+               </l>
+               <l>Which bands Earth's <hi>brazen Circle</hi> like a
+  <hi>Wheel,</hi>
+               </l>
+               <l>That <hi>Orb</hi> alſo, with what <hi>encreaſe</hi> it
+  yeelds</l>
+               <l>In <hi>fenced Gardens,</hi> or in <hi>open Fields,</hi>
+               </l>
+               <l>In a moment ſhall <hi>melt away</hi> like <hi>Wax,</hi>
+               </l>
+               <l>As with the <hi>ſudden flames</hi> of burning
+  <hi>Flax,</hi>
+               </l>
+               <l>Kindl'd by <hi>motion</hi> and <hi>glance</hi> of a
+  <hi>ſpark,</hi>
+               </l>
+               <l>Which <hi>Duſt</hi> and <hi>Aſhes</hi> cover in the
+  <hi>dark;</hi>
+               </l>
+               <l>Yet in the <hi>fiery flames</hi> there ſhall
+  <hi>remain.</hi>
+               </l>
+               <l>As unconſum'd, a <hi>little ſimple grain,</hi>
+               </l>
+               <l>But <hi>all</hi> in Earth <hi>beſides</hi> ſhall burn as
+  <hi>Tow,</hi>
+               </l>
+               <l>And periſh, as the <hi>Sun</hi> diſſolves the
+  <hi>Snow.</hi>
+               </l>
+               <l>
+                  <hi>Preach</hi> this to <hi>proud fleſh</hi> which doth vainly
+  <hi>boaſt,</hi>
+               </l>
+               <l>A <hi>Muſtard ſeed</hi> ſhall be a <hi>mighty
+  Hoſt,</hi>
+               </l>
+               <l>Which ſhall a <hi>Standard</hi> pitch, and <hi>Enſign</hi>
+  ſpread,</l>
+               <l>VVherein <hi>Conqueſt</hi> in Battels ſhall be read;</l>
+               <l>And then the <hi>Worm</hi> which hath crept <hi>maim'd</hi> and
+  <hi>halt</hi>
+               </l>
+               <l>In <hi>Ages paſt,</hi> I highly <hi>will exalt;</hi>
+               </l>
+               <l>VVhich I've <hi>anointed</hi> as <hi>King</hi> of
+  <hi>Salom,</hi>
+               </l>
+               <l>To <hi>reign</hi> for ever in <hi>Jeruſalom;</hi>
+               </l>
+               <l>To him that <hi>ent'reth</hi> then within her <hi>Gate</hi>
+               </l>
+               <l>I'll give to <hi>ſee</hi> the <hi>thing</hi> that <hi>I
+  create,</hi>
+               </l>
+               <l>A <hi>Lion</hi> fierce, a <hi>Lamb,</hi> a <hi>Lamb,</hi> a
+  <hi>Lion</hi>
+               </l>
+               <l>VVhich ſhall <hi>roar</hi> out of the Mountain
+  <hi>Sion;</hi>
+               </l>
+               <l>VVhoſe <hi>ſound</hi> ſhall be as <hi>Trumps</hi> unto the
+  <hi>Battle,</hi>
+               </l>
+               <l>VVhich in the four winds ſhall <hi>ring</hi> and
+  <hi>rattle;</hi>
+               </l>
+               <l>So <hi>dreadful</hi> ſhall the <hi>Ecchoes</hi> then
+  rebound,</l>
+               <l>That all the <hi>Dead</hi> ſhall <hi>hear,</hi> buried in
+  <hi>ground;</hi>
+               </l>
+               <l>The <hi>Sea</hi> ſhall give up what lies in her
+  <hi>Womb,</hi>
+               </l>
+               <l>With <hi>Death,</hi> and ev'ry <hi>Sepulchre</hi> and
+  <hi>Tomb;</hi>
+               </l>
+               <l>Then He ſhall <hi>judge</hi> all which do <hi>Judgment
+  wreſt,</hi>
+               </l>
+               <l>Perverting <hi>Truth,</hi> which have the <hi>Poor</hi>
+  oppreſt:</l>
+               <l>And as I live, I'll ſpread his <hi>face</hi> and
+  <hi>brow</hi>
+               </l>
+               <l>Seven-fold more wide than are the <hi>Heav'ns</hi> now;</l>
+               <l>
+                  <pb n="22" facs="tcp:106231:12"/>And ev'ry <hi>Eye</hi> ſhall ſee what
+  they have <hi>hated,</hi>
+               </l>
+               <l>A <hi>Worm, Innocent,</hi> mine <hi>own created:</hi>
+               </l>
+               <l>His <hi>frown</hi> ſhall be the <hi>World's WO</hi> and
+  <hi>DREAD,</hi>
+               </l>
+               <l>Yea, ev'ry <hi>ſoul</hi> to <hi>Him</hi> ſhall bow the
+  <hi>head;</hi>
+               </l>
+               <l>His Eye ſhall pierce the <hi>ſecrets</hi> of all
+  <hi>hearts,</hi>
+               </l>
+               <l>And in the <hi>Guilty</hi> ſhall fix wounding
+  <hi>darts;</hi>
+               </l>
+               <l>VVhich no fleſh living ſhall at all <hi>remove,</hi>
+               </l>
+               <l>The <hi>Recompence</hi> of their <hi>despite</hi> of
+  <hi>love.</hi>
+               </l>
+               <l>His <hi>breath</hi> as <hi>Lightnings,</hi> piercing as a
+  <hi>Lance,</hi>
+               </l>
+               <l>In <hi>dreadful flames</hi> on ev'ry <hi>ſoul</hi> ſhall
+  <hi>glance,</hi>
+               </l>
+               <l>Fulfilling <hi>Vengeance</hi> in the <hi>Wicked's
+  heart,</hi>
+               </l>
+               <l>Ev'rlaſting <hi>burnings,</hi> never to <hi>depart.</hi>
+               </l>
+               <l>Yea, with his <hi>breath</hi> all <hi>pure Gold</hi> ſhall
+  <hi>melt,</hi>
+               </l>
+               <l>Which in <hi>Heav'ns Treaſure</hi> ſhall be <hi>ſeen</hi>
+  and <hi>felt;</hi>
+               </l>
+               <l>And <hi>pure Silver</hi> ſhall run down as
+  <hi>ſtreams,</hi>
+               </l>
+               <l>With th'<hi>ardour</hi> of his <hi>Rayes</hi> and <hi>burning
+  beams:</hi>
+               </l>
+               <l>Lift up thine head, the <hi>DAY</hi> draws <hi>very
+  nigh</hi>
+               </l>
+               <l>In which this <hi>WORM</hi> I will <hi>exalt on high;</hi>
+               </l>
+               <l>And I the <hi>JEALOUS</hi> mov'd for <hi>his relief,</hi>
+               </l>
+               <l>Do charge thee <hi>wait</hi> in <hi>content</hi> and
+  <hi>belief;</hi>
+               </l>
+               <l>In th'<hi>Ark</hi> of the <hi>New-Teſtament</hi> abide,</l>
+               <l>And in its <hi>ſecret desk</hi> ſee that thou
+  <hi>hide</hi>
+               </l>
+               <l>The <hi>written Rolls</hi> of <hi>Fire</hi> and <hi>pure
+  Gold,</hi>
+               </l>
+               <l>Until the Word ſhall be, <hi>Thou maiſt unfold:</hi>
+               </l>
+               <l>The <hi>Sum of all</hi> thus ſeal'd up in thy
+  <hi>breaſt,</hi>
+               </l>
+               <l>Lye down in <hi>Peace</hi> in the Lamb's <hi>Endleſs
+  Reſt.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To the Children of the Day.</head>
+            <lg>
+               <l>NO <hi>Dammage, hurt</hi> nor <hi>loſs,</hi> but
+  <hi>Gain</hi>'s won in the <hi>Croſs.</hi>
+               </l>
+               <l>Let <hi>Patience</hi> all things <hi>bear,</hi> in
+  <hi>Trembling</hi> and in <hi>Fear.</hi>
+               </l>
+               <l>Content thy <hi>Mate,</hi> in ev'ry <hi>ſtate,</hi> leads to
+  the <hi>entrance</hi> through the <hi>Gate,</hi>
+               </l>
+               <l>Where all <hi>within,</hi> in Joy do <hi>ſing,</hi> and
+  <hi>Crowns</hi> of <hi>Life</hi> do <hi>wear.</hi>
+               </l>
+               <l>
+                  <pb n="23" facs="tcp:106231:12"/>At <hi>large</hi> I <hi>may</hi> not
+  <hi>ſay,</hi> what I this <hi>Holy Day</hi>
+               </l>
+               <l>In <hi>pleaſure</hi> do <hi>poſſeſs,</hi> whilſt
+  <hi>foes</hi> do me <hi>oppreſs,</hi>
+               </l>
+               <l>But will <hi>proceed,</hi> to ſhew the <hi>need,</hi> of
+  <hi>Jacob</hi> ſmall that <hi>bruiſed reed,</hi>
+               </l>
+               <l>That it may <hi>rouſe, LIFE</hi> as a <hi>Spouſe,</hi> to
+  <hi>woo</hi> Him in <hi>diſtreſs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This <hi>thing</hi> may many <hi>prove,</hi>
+               </l>
+               <l>behold, <hi>ſtretcht wings</hi> of <hi>Sion's</hi> Turtle
+  <hi>Dove,</hi>
+               </l>
+               <l>in ſwifteſt <hi>courſe</hi> of <hi>flight</hi> do
+  <hi>move,</hi>
+               </l>
+               <l>with <hi>weight</hi> of <hi>wooings</hi> unto <hi>love;</hi>
+               </l>
+               <l>A little ſimple <hi>Wren,</hi>
+               </l>
+               <l>
+                  <hi>waits</hi> with the <hi>Pen,</hi>
+               </l>
+               <l>in <hi>clear</hi> ſight</l>
+               <l>to write,</l>
+               <l>
+                  <hi>Amen.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Son of <hi>Sion</hi> which in <hi>ardour</hi> pants</l>
+               <l>Unto <hi>Jeruſalom's</hi> Inhabitants,</l>
+               <l>
+                  <hi>Provok'd</hi> in ſpirit, <hi>greeting</hi> to
+  tranſmit,</l>
+               <l>Doth of the <hi>ſame</hi> hereby himſelf
+  <hi>acquit:</hi>
+               </l>
+               <l>Upon the <hi>Sabbath day</hi> which God hath
+  <hi>bleſt,</hi>
+               </l>
+               <l>I <hi>waited</hi> in the <hi>Temple</hi> of his
+  <hi>Reſt,</hi>
+               </l>
+               <l>Until I ſaw a <hi>little</hi> moving <hi>Stone,</hi>
+               </l>
+               <l>To open as a <hi>Roll</hi> before the <hi>Throne,</hi>
+               </l>
+               <l>Wherein was written <hi>Myſteries profound,</hi>
+               </l>
+               <l>With many <hi>Prophecies,</hi> which compaſt round</l>
+               <l>My <hi>ſoul</hi> in <hi>deeps</hi> of
+  <hi>Contemplations,</hi>
+               </l>
+               <l>Oh! <hi>Immenſe, Immenſe Revelations.</hi>
+               </l>
+               <l>Though I'm a <hi>Worm</hi> to ſpeak unto an
+  <hi>Hoſt</hi>
+               </l>
+               <l>Of <hi>Heav'n,</hi> yet mov'd in the <hi>Holy Ghoſt,</hi>
+               </l>
+               <l>I ſtand up <hi>arm'd</hi> with <hi>Courage,</hi> in Life
+  bold,</l>
+               <l>In <hi>Fear</hi> and <hi>Trembling,</hi> leſt I ſhould
+  withhold</l>
+               <l>To pay the <hi>Obligation,</hi> as my due,</l>
+               <l>Diſcharged <hi>thus,</hi> by ſpreading in your view.</l>
+            </lg>
+            <lg>
+               <l>There is an <hi>Orphant</hi> in the <hi>Wilderneſs,</hi>
+               </l>
+               <l>VVhich wanting <hi>Bread,</hi> languiſheth in
+  <hi>diſtreſs;</hi>
+               </l>
+               <l>I cannot in a ſecret place <hi>repoſe,</hi>
+               </l>
+               <l>To hide <hi>my ſelf</hi> from the <hi>afflicted's
+  Woes,</hi>
+               </l>
+               <l>
+                  <pb n="24" facs="tcp:106231:13"/>Moſt <hi>grievous Cryes,</hi> the
+  <hi>Ecchoes</hi> as a <hi>Dart</hi>
+               </l>
+               <l>And <hi>piercing Lance,</hi> wounds me unto the
+  <hi>heart.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh! you on whom the <hi>glorious Sun</hi> doth ſhine,</l>
+               <l>Unto my <hi>Voice</hi> your <hi>open ear</hi> encline.</l>
+               <l>
+                  <hi>Jeruſalem</hi> a <hi>ſubſtance</hi> doth
+  poſſeſs,</l>
+               <l>Which can <hi>remove</hi> that <hi>bleeding Worm's</hi>
+  diſtreſs.</l>
+               <l>The <hi>Liberal Hand</hi> is this day meet to
+  <hi>meaſure</hi>
+               </l>
+               <l>A <hi>Portion</hi> of the <hi>Conſecrated Treaſure,</hi>
+               </l>
+               <l>For the <hi>Redemption</hi> of the <hi>Captivate,</hi>
+               </l>
+               <l>From the <hi>Chains</hi> of his ſore <hi>oppreſſed
+  ſtate.</hi>
+               </l>
+               <l>Give ear ye <hi>Sons</hi> and <hi>Daughters</hi> to this
+  <hi>WORD,</hi>
+               </l>
+               <l>Unto <hi>Jeruſalom <hi>Thus ſaith the</hi>
+                  </hi> LORD:</l>
+               <l>This WORD ſhall be his <hi>burthen</hi> which
+  <hi>conceals,</hi>
+               </l>
+               <l>and ſhuts himſelf up under <hi>Clouds,</hi> and
+  <hi>ſeals</hi>
+               </l>
+               <l>His <hi>Life</hi> and <hi>Portion</hi> in obſcurity,</l>
+               <l>Starting from <hi>Zeal,</hi> the flame of <hi>Purity,</hi>
+               </l>
+               <l>Relinquiſhing <hi>Life's motion,</hi> keeping
+  <hi>back</hi>
+               </l>
+               <l>The thing which the <hi>oppreſſed Seed</hi> doth lack.</l>
+               <l>Remember ye the <hi>Antient Prophets</hi> race,</l>
+               <l>Whoſe <hi>life</hi> ſtood not at all in <hi>time</hi> or
+  <hi>place,</hi>
+               </l>
+               <l>But <hi>wand'red</hi> as <hi>Pilgrims</hi> and as
+  <hi>Strangers</hi>
+               </l>
+               <l>In all the <hi>Earth,</hi> without reſpect of
+  <hi>Dangers,</hi>
+               </l>
+               <l>Some dragg'd to <hi>Suff'rings,</hi> and to <hi>Tortures</hi>
+  hurl'd,</l>
+               <l>Some <hi>ſlain,</hi> of whom <hi>worthy</hi> was not the
+  <hi>World;</hi>
+               </l>
+               <l>I'm directed to <hi>him,</hi> mov'd to <hi>partake</hi>
+               </l>
+               <l>Of <hi>Tryal's pledge;</hi> whilſt yet for the <hi>Seed's
+  ſake</hi>
+               </l>
+               <l>Like as a <hi>Lamb</hi> I <hi>bleat,</hi> I <hi>bleed,</hi> I
+  <hi>roar,</hi>
+               </l>
+               <l>Like as a <hi>Lion</hi> in the Gate and Door,</l>
+               <l>The <hi>entrance</hi> of the <hi>Palace</hi> of the
+  <hi>King,</hi>
+               </l>
+               <l>Blowing my <hi>breath</hi> on ev'ry <hi>living thing.</hi>
+               </l>
+               <l>Stand up thou <hi>ſimple,</hi> ſtagger not <hi>at
+  all,</hi>
+               </l>
+               <l>The <hi>Voice</hi> is <hi>GOD'S,</hi> which ſecretly doth
+  call:</l>
+               <l>Yeeld unto <hi>Him,</hi> with <hi>whole affection</hi> bent,</l>
+               <l>The <hi>RACE</hi> is <hi>ſure,</hi> thou <hi>run'ſt</hi> as
+  him that's <hi>ſent.</hi>
+               </l>
+               <l>Ye <hi>called</hi> to the <hi>labour</hi> of the
+  <hi>Day,</hi>
+               </l>
+               <l>Take <hi>Inſtrument</hi> in hand, and come away</l>
+               <l>All <hi>Plowers, Planters, Pioneers</hi> and
+  <hi>Miners,</hi>
+               </l>
+               <l>With <hi>Reapers, Threſhers, Fanners</hi> and
+  <hi>Refiners,</hi>
+               </l>
+               <l>
+                  <pb n="25" facs="tcp:106231:13"/>Proceed <hi>in ſtrength</hi> each one in
+  his <hi>Vocation,</hi>
+               </l>
+               <l>To ſee <hi>Redemption</hi> of the <hi>whole Creation.</hi>
+               </l>
+               <l>You <hi>valiant Souldiers,</hi> which the <hi>Weapons
+  wear</hi>
+               </l>
+               <l>Of <hi>War,</hi> the <hi>Javelin, Dart,</hi> the <hi>Sword</hi>
+  and <hi>Spear,</hi>
+               </l>
+               <l>Appear as <hi>Champions</hi> in Earth's <hi>open field,</hi>
+               </l>
+               <l>With <hi>Enſign, Standard, Buckler, Bow</hi> and
+  <hi>Shield.</hi>
+               </l>
+               <l>Unto the <hi>Battel</hi> let the <hi>Trumpet</hi> ſound,</l>
+               <l>
+                  <hi>Avenge</hi> in <hi>Earth</hi> until the <hi>LOST</hi> be
+  <hi>found,</hi>
+               </l>
+               <l>Aim <hi>right</hi> and <hi>ſhoot</hi> the <hi>arrows</hi> of
+  <hi>your Quiver,</hi>
+               </l>
+               <l>To <hi>pierce Gog's Hoſt</hi> unto the <hi>heart</hi> and
+  <hi>liver;</hi>
+               </l>
+               <l>And <hi>GOD Eternal</hi> with moſt <hi>high renown</hi>
+               </l>
+               <l>Of <hi>Victory,</hi> all the <hi>Couragious crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Dear <hi>Brethren</hi> and <hi>Siſters</hi> in the Power,</l>
+               <l>Remembring <hi>You,</hi> I'm as a <hi>dropping
+  ſhowre,</hi>
+               </l>
+               <l>Mine <hi>yearning bowels</hi> like to <hi>Wax</hi> do
+  <hi>melt,</hi>
+               </l>
+               <l>Ah! let me <hi>by you all</hi> be <hi>ſeen</hi> and
+  <hi>felt.</hi>
+               </l>
+               <l>My <hi>Life</hi> ſalutes you with an <hi>Holy Kiſs,</hi>
+               </l>
+               <l>Tranſmitted by the <hi>Lips</hi> of <hi>Heaven's
+  bliſs.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Love</hi> claſps <hi>Life,</hi> with <hi>dear</hi>
+  embraces</l>
+               <l>Of <hi>Vertue's arms</hi> in <hi>Joy</hi> and
+  <hi>Pleaſure,</hi>
+               </l>
+               <l>Reading the <hi>ſweetneſs</hi> of the <hi>Graces</hi>
+               </l>
+               <l>Wrapt up in <hi>Life,</hi> Ah! <hi>heav'nly Treaſure.</hi>
+               </l>
+               <l>To <hi>Life,</hi> as the <hi>Mate</hi> of a <hi>Dove</hi>
+               </l>
+               <l>I'm <hi>bound</hi> in unknown <hi>endleſs Love:</hi>
+               </l>
+               <l>Let <hi>ev'ry</hi> Lamb</l>
+               <l>Of the <hi>true</hi> Dam</l>
+               <l>Read <hi>how</hi> your <hi>Life</hi> my <hi>ſoul</hi> doth
+  <hi>move.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Thoughts are <hi>fixt</hi> faſt in my <hi>breaſt,</hi>
+               </l>
+               <l>Deeply <hi>anchor'd</hi> in my <hi>heart.</hi>
+               </l>
+               <l>May it be ſaid LOVE hath <hi>oppreſt?</hi>
+               </l>
+               <l>Then <hi>you'r my <hi>wound:</hi>
+                  </hi> ah! <hi>piercing
+  Dart.</hi>
+               </l>
+               <l>Sure had not <hi>He</hi> which doth <hi>reveal</hi>
+               </l>
+               <l>Your <hi>brightneſs,</hi> giv'n a <hi>Leaf</hi> to
+  <hi>heal</hi>
+               </l>
+               <l>My <hi>Maladies,</hi>
+               </l>
+               <l>In counſel <hi>wiſe,</hi>
+               </l>
+               <l>Death had <hi>on me</hi> ſet her <hi>ſeal.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="26" facs="tcp:106231:14"/>
+               <l>Dear <hi>Salutation</hi> as <hi>Embaſſage</hi>
+               </l>
+               <l>I ſend to <hi>Heaven's</hi> bleſſed <hi>Hoſt,</hi>
+               </l>
+               <l>Though not as if I had made <hi>paſſage,</hi>
+               </l>
+               <l>Relinquiſhing ſweet <hi>Sion's</hi> Coaſt,</l>
+               <l>But <hi>with you</hi> for ever <hi>bound</hi>
+               </l>
+               <l>In <hi>God's Covenant</hi> profound,</l>
+               <l>And <hi>Glorious Day</hi>
+               </l>
+               <l>Which <hi>leads</hi> the way,</l>
+               <l>And <hi>ſaves</hi> out of the <hi>curſed</hi> ground.</l>
+            </lg>
+            <lg>
+               <l>Your <hi>ſmell</hi> is as a <hi>fragrant Flower,</hi>
+               </l>
+               <l>Your <hi>taſt</hi> more pleaſant than <hi>ſweet
+  Wine,</hi>
+               </l>
+               <l>I <hi>feel</hi> you in th'<hi>Eternal Power,</hi>
+               </l>
+               <l>I <hi>ſee</hi> moſt clear your <hi>faces ſhine;</hi>
+               </l>
+               <l>Your <hi>ſound</hi> as <hi>Melody</hi> mine <hi>ear</hi>
+               </l>
+               <l>(Of <hi>Cymbals, Lutes</hi> and <hi>Trumps</hi>) doth
+  <hi>hear,</hi>
+               </l>
+               <l>The <hi>piercing Voice</hi>
+               </l>
+               <l>Makes <hi>heart</hi> rejoyce,</l>
+               <l>And <hi>Love's</hi> clear eye to <hi>drop a Tear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>You'r <hi>built</hi> upon an <hi>Holy Mountain,</hi>
+               </l>
+               <l>A <hi>Glorious Palace</hi> for the <hi>King;</hi>
+               </l>
+               <l>Your <hi>Foundation</hi> is <hi>Life's Fountain,</hi>
+               </l>
+               <l>
+                  <hi>Angels</hi> beholding, <hi>Praiſes</hi> ſing</l>
+               <l>To <hi>GOD unceſſant</hi> all day long,</l>
+               <l>On <hi>David's</hi> tun'd Harp, the <hi>Lamb's Song.</hi>
+               </l>
+               <l>Let <hi>Nations</hi> prove,</l>
+               <l>Hell <hi>cann't</hi> you move,</l>
+               <l>The <hi>Wonderful</hi> hath <hi>built</hi> you
+  <hi>ſtrong.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Roſes, Spices, Gems</hi> and <hi>Gold,</hi>
+               </l>
+               <l>To ſee <hi>all</hi> no <hi>fleſh</hi> can <hi>pry,</hi>
+               </l>
+               <l>
+                  <hi>Sion's Treaſure</hi> vaſt <hi>untold,</hi>
+               </l>
+               <l>
+                  <hi>Unutterable</hi> in mine eye,</l>
+               <l>You'r the <hi>ſum</hi> which do poſſeſs</l>
+               <l>The <hi>Sum</hi> in everlaſting bleſs,</l>
+               <l>Moſt <hi>High</hi> Renown,</l>
+               <l>Your <hi>weighty</hi> Crown</l>
+               <l>Shall <hi>Kings</hi> and <hi>Nations</hi> to death preſs.</l>
+            </lg>
+            <lg>
+               <pb n="27" facs="tcp:106231:14"/>
+               <l>I bleſs <hi>Him</hi> who <hi>gives</hi> to know</l>
+               <l>
+                  <hi>Counſels deep</hi> in his own way.</l>
+               <l>
+                  <hi>Sion's ſtreams</hi> ſhall overflow</l>
+               <l>Earth's <hi>Wide compaſs</hi> in a <hi>day:</hi>
+               </l>
+               <l>All ſhall <hi>yeeld</hi> encreaſe and <hi>ſtore,</hi>
+               </l>
+               <l>Creatures <hi>trav'ling</hi> in pain <hi>ſore</hi>
+               </l>
+               <l>Shall <hi>then</hi> be bleſt,</l>
+               <l>And <hi>not</hi> oppreſt,</l>
+               <l>Curſe <hi>remov'd</hi> for evermore.</l>
+            </lg>
+            <lg>
+               <l>Feel my <hi>yearning bowels</hi> moved,</l>
+               <l>Which <hi>Mortal</hi> cannot <hi>comprehend,</hi>
+               </l>
+               <l>Towards <hi>You,</hi> my <hi>Dear Beloved,</hi>
+               </l>
+               <l>In that which <hi>never</hi> ſhall have end.</l>
+               <l>All which <hi>GOD'S</hi> own <hi>Image</hi> bears,</l>
+               <l>And the <hi>Lamb's</hi> white Garments Wears</l>
+               <l>With <hi>Virtue's</hi> grace</l>
+               <l>Behold <hi>my</hi> face</l>
+               <l>As a <hi>ground</hi> of <hi>trickling tears.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let me <hi>pierce</hi> the <hi>inward parts,</hi>
+               </l>
+               <l>And <hi>provoke</hi> the <hi>ſouls</hi> of all</l>
+               <l>In the <hi>flames</hi> of <hi>burning hearts,</hi>
+               </l>
+               <l>Which on <hi>GOD</hi> the <hi>LORD</hi> do call,</l>
+               <l>Whilſt ſweet <hi>odours</hi> do aſcend,</l>
+               <l>To the <hi>Father</hi> recommend</l>
+               <l>Him <hi>of Man</hi> hated,</l>
+               <l>The LORD'S created,</l>
+               <l>Whoſe <hi>Love</hi> alone doth <hi>Life</hi> defend.</l>
+            </lg>
+            <lg>
+               <l>That no <hi>tender Lamb</hi> may bleat</l>
+               <l>After <hi>Me</hi> with other Voice,</l>
+               <l>
+                  <hi>GOD</hi> the <hi>Father</hi> I entreat</l>
+               <l>Than which makes my <hi>heart</hi> rejoyce.</l>
+               <l>Reſt you <hi>all</hi> in the <hi>pure Life,</hi>
+               </l>
+               <l>As the <hi>Bride,</hi> the <hi>Lamb's</hi> own
+  <hi>Wife,</hi>
+               </l>
+               <l>To <hi>live,</hi> or <hi>dye,</hi>
+               </l>
+               <l>Given <hi>up</hi> as <hi>I,</hi>
+               </l>
+               <l>For <hi>Truth</hi> a <hi>Sacrifice</hi> moſt
+  <hi>rife.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>JOHN.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="28" facs="tcp:106231:15"/>
+            <head>To the Seed of the Kingdom, Plants of the Paradiſe of God;
+moſt purely and everlaſtingly beloved Brethren and Siſters, in the
+Immortal Life, <hi>Congratulation.</hi>
+            </head>
+            <lg>
+               <l>CAn I <hi>forget</hi> that <hi>Womb</hi> whoſe
+  <hi>Travels</hi> were</l>
+               <l>For me more <hi>grievous,</hi> than which <hi>fleſh</hi> could
+  <hi>bear?</hi>
+               </l>
+               <l>Or bury in <hi>Oblivion's Grave,</hi> that <hi>Breaſt</hi>
+               </l>
+               <l>Which <hi>ſuckled me?</hi> or <hi>Cradle</hi> of my
+  <hi>reſt?</hi>
+               </l>
+               <l>Can I <hi>requite</hi> my <hi>Friends</hi> as deadly
+  <hi>foes?</hi>
+               </l>
+               <l>Or <hi>ſcorn</hi> the <hi>Bed</hi> of Heavenly <hi>Joys</hi>
+  repoſe?</l>
+               <l>Or <hi>loath</hi> the <hi>Waters ſweet,</hi> of <hi>Jacob's
+  Well,</hi>
+               </l>
+               <l>Like <hi>Sulphury ſtreams</hi> of the <hi>infernal
+  Cell?</hi>
+               </l>
+               <l>Can I <hi>forget</hi> that <hi>Hand</hi> and <hi>living
+  Bread,</hi>
+               </l>
+               <l>VVhich in <hi>ſore Famine</hi> freely hath <hi>me
+  fed?</hi>
+               </l>
+               <l>Or <hi>drown</hi> in <hi>Deeps</hi> the thoughts of <hi>God's
+  own breath</hi>
+               </l>
+               <l>To burſt like <hi>Judas,</hi> ſtrangled unto death?</l>
+               <l>Nay, for in <hi>GOD</hi> moſt <hi>merciful</hi> and
+  <hi>juſt,</hi>
+               </l>
+               <l>Abides my <hi>Confidence, Faith, Hope</hi> and
+  <hi>Truſt.</hi>
+               </l>
+               <l>Ah! <hi>Sion, Sion,</hi> thy moſt glorious <hi>Life,</hi>
+               </l>
+               <l>Is all to <hi>me,</hi> my <hi>Joy,</hi> I am thy
+  <hi>Wife:</hi>
+               </l>
+               <l>And therefore if I ſhould make <hi>ſlight</hi> of
+  <hi>thee,</hi>
+               </l>
+               <l>Then all thy <hi>Good</hi> would be a <hi>ſting</hi> to
+  me;</l>
+               <l>Then would my <hi>Bowe</hi> againſt me ſurely
+  <hi>bend,</hi>
+               </l>
+               <l>And all <hi>my Darts</hi> into my <hi>Body</hi> ſend,</l>
+               <l>And all the <hi>pointed Arrows</hi> of my <hi>Quiver,</hi>
+               </l>
+               <l>Would ſorely <hi>ſtick</hi> faſt in my <hi>Heart</hi> and
+  <hi>Liver.</hi>
+               </l>
+               <l>Then would my <hi>Sword</hi> which on my <hi>loins</hi> is
+  bound,</l>
+               <l>Fall <hi>ſharp</hi> on me, and leave a <hi>mortal</hi>
+  wound:</l>
+               <l>Yea, then the <hi>Teeth</hi> of this my <hi>Instrument,</hi>
+               </l>
+               <l>Would <hi>fleſh</hi> from <hi>bones,</hi> and all my
+  <hi>Intrals</hi> rent.</l>
+               <l>My <hi>Honey</hi> would become as <hi>Rue</hi> and
+  <hi>Gall,</hi>
+               </l>
+               <l>And heav'nly <hi>ſhowres</hi> like <hi>ſnares</hi> of
+  <hi>Fire</hi> would <hi>fall</hi>
+               </l>
+               <l>Upon <hi>my head;</hi> yea, then my pleaſant <hi>Wine</hi>
+               </l>
+               <l>Would be as <hi>molten Lead;</hi> and this ſtreight
+  <hi>Line</hi>
+               </l>
+               <l>VVould mark out <hi>all,</hi> even as an <hi>equal due,</hi>
+               </l>
+               <l>Which gives <hi>clear ſight</hi> that God's moſt
+  <hi>juſt</hi> and <hi>true.</hi>
+               </l>
+               <l>
+                  <pb n="29" facs="tcp:106231:15"/>The <hi>Oyl</hi> which burns within this
+  <hi>Lamp</hi> of <hi>Gold,</hi>
+               </l>
+               <l>Would alſo me in <hi>flames</hi> of <hi>fire</hi> fold:</l>
+               <l>For then would <hi>Shiloh</hi> all his <hi>currents</hi>
+  make</l>
+               <l>To me, like as the <hi>fiery burning Lake;</hi>
+               </l>
+               <l>Should I become like as a <hi>turning Vane,</hi>
+               </l>
+               <l>Then this my <hi>Bread</hi> would be my <hi>deadly
+  bane.</hi>
+               </l>
+               <l>My <hi>Marrow</hi> would become like <hi>Pitch</hi> and
+  <hi>Tar,</hi>
+               </l>
+               <l>In dreadful <hi>flames;</hi> yea, then the
+  <hi>Morning-Star,</hi>
+               </l>
+               <l>Which hath <hi>reveal'd</hi> his glorious ſhining
+  <hi>Light,</hi>
+               </l>
+               <l>Would <hi>gird</hi> me in the hideous <hi>howling
+  night:</hi>
+               </l>
+               <l>But ſurely I to God's <hi>own Mercy</hi> have</l>
+               <l>Committed <hi>all,</hi> whoſe <hi>Grace</hi> doth <hi>freely
+  ſave;</hi>
+               </l>
+               <l>VVeakneſs is <hi>mine,</hi> but <hi>ſtrength's</hi> in God's
+  own <hi>hand,</hi>
+               </l>
+               <l>By which <hi>alone</hi> in fear, <hi>I live</hi> and
+  <hi>ſtand,</hi>
+               </l>
+               <l>In Baptiſm's <hi>fire,</hi> exceeding <hi>John's,</hi> who
+  lead</l>
+               <l>To <hi>Jordan's</hi> Deeps, whom <hi>Herod</hi> did
+  <hi>behead.</hi>
+               </l>
+               <l>Ah! Babes moſt <hi>dear,</hi> with <hi>you</hi> in that <hi>I
+  am,</hi>
+               </l>
+               <l>Which gives to ſee <hi>me</hi> as a patient <hi>Lamb,</hi>
+               </l>
+               <l>In <hi>pure Content,</hi> bearing the <hi>Yoak</hi> and
+  <hi>Croſs,</hi>
+               </l>
+               <l>Eſteeming <hi>mortal,</hi> but as <hi>dung</hi> and
+  <hi>droſs;</hi>
+               </l>
+               <l>In taſte of <hi>Vertue,</hi> of the <hi>heavenly
+  Seed,</hi>
+               </l>
+               <l>At God's own <hi>Table</hi> with you all I <hi>feed;</hi>
+               </l>
+               <l>With each <hi>low worm</hi> in his proper
+  <hi>meaſure,</hi>
+               </l>
+               <l>I drink a <hi>dram</hi> of the ſweet Wine of
+  <hi>pleaſure,</hi>
+               </l>
+               <l>My ſoul in <hi>Ardency</hi> of Life doth <hi>ſay,</hi>
+               </l>
+               <l>I am as <hi>near you</hi> as the <hi>Light</hi> the
+  <hi>Day.</hi>
+               </l>
+               <l>As <hi>firmly fixt,</hi> like <hi>fleſh</hi> unto your
+  <hi>bones,</hi>
+               </l>
+               <l>As in the Mountains <hi>ſolid Rocks</hi> and
+  <hi>Stones:</hi>
+               </l>
+               <l>As real <hi>in you,</hi> though no fleſh can
+  <hi>ſee,</hi>
+               </l>
+               <l>As is the <hi>Sap</hi> in the green <hi>Olive Tree:</hi>
+               </l>
+               <l>I've choſen <hi>you</hi> like as the <hi>Turtle-Dove,</hi>
+               </l>
+               <l>To be <hi>diſſolv'd</hi> in this moſt <hi>conſtant
+  Love.</hi>
+               </l>
+               <l>I want the <hi>words</hi> of <hi>Wiſdom's</hi> Deep
+  <hi>profound,</hi>
+               </l>
+               <l>To ſhew how <hi>deep</hi> y'are <hi>planted</hi> in this
+  <hi>ground:</hi>
+               </l>
+               <l>What ſhall I ſay unto my <hi>heart within?</hi>
+               </l>
+               <l>Where canſt thou <hi>end,</hi> but where thou didſt
+  <hi>begin?</hi>
+               </l>
+               <l>And there the <hi>Rivers</hi> run, exceeding
+  <hi>meaſure,</hi>
+               </l>
+               <l>What ſhall I ſay of this my <hi>Love's</hi> vaſt
+  <hi>treaſure?</hi>
+               </l>
+               <l>
+                  <pb n="30" facs="tcp:106231:16"/>You have <hi>much more</hi> than this
+  <hi>weak hand</hi> can <hi>write,</hi>
+               </l>
+               <l>For all is <hi>yours</hi> which <hi>Spirit</hi> doth
+  <hi>endite;</hi>
+               </l>
+               <l>My <hi>Spirit's</hi> alſo <hi>with</hi> and <hi>in you
+  all,</hi>
+               </l>
+               <l>Who by the <hi>ſame</hi> are <hi>ſaved</hi> from the
+  <hi>fall.</hi>
+               </l>
+               <l>Can I within me leſſe <hi>Affection</hi> find,</l>
+               <l>Than <hi>Worms</hi> or <hi>Beaſts,</hi> who <hi>love</hi>
+  their <hi>proper kind?</hi>
+               </l>
+               <l>Nay, <hi>Lambs,</hi> ye know in <hi>living ſubſtance</hi>
+  well,</l>
+               <l>That my <hi>Brooks current,</hi> mortal doth <hi>excel.</hi>
+               </l>
+               <l>For this my <hi>Stream</hi> towards the <hi>Deep</hi> doth
+  <hi>run,</hi>
+               </l>
+               <l>As doth my <hi>Flame</hi> aſcend towards the <hi>Sun.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No wiſe <hi>Philoſopher</hi> did ever <hi>know</hi>
+               </l>
+               <l>The <hi>moving Cauſe</hi> why <hi>Seas</hi> do <hi>ebb</hi>
+  and <hi>flow;</hi>
+               </l>
+               <l>Nor of them all which in their <hi>Tombs</hi> do lye,</l>
+               <l>E're ſaw the <hi>Love,</hi> which <hi>moves</hi> the
+  <hi>Sun</hi> to <hi>fly,</hi>
+               </l>
+               <l>In <hi>courſe</hi> moſt <hi>ſwift</hi> round
+  <hi>Heav'ns</hi> wideſt <hi>wheel,</hi>
+               </l>
+               <l>But God's <hi>Hoſt</hi> now the <hi>Cauſe</hi> and
+  <hi>Life</hi> do <hi>feel.</hi>
+               </l>
+               <l>The <hi>leſſer</hi> to the <hi>greater</hi> is well
+  known,</l>
+               <l>And <hi>each</hi> true <hi>Nature</hi> moves <hi>towards</hi>
+  its own.</l>
+               <l>Here's <hi>Fire below,</hi> the <hi>greater Flame's</hi>
+  above,</l>
+               <l>Till <hi>twain</hi> are joyn'd, they do <hi>yearn</hi> both in
+  <hi>Love.</hi>
+               </l>
+               <l>Th'ore-whelming <hi>Floods,</hi> which on the <hi>Earth</hi>
+  were ſent</l>
+               <l>In <hi>Noah's day,</hi> dropt from the <hi>Firmament;</hi>
+               </l>
+               <l>Beſides, you ſee how <hi>rainy Clouds</hi> do bring,</l>
+               <l>Refreſhing <hi>Showres</hi> in pleaſant time of
+  <hi>Spring;</hi>
+               </l>
+               <l>And fills the <hi>Fountains</hi> which are here
+  <hi>below,</hi>
+               </l>
+               <l>And ſtill the <hi>Streams</hi> unto the <hi>Seas</hi> do
+  flow,</l>
+               <l>And all their <hi>Tides,</hi> wherein they alwayes
+  <hi>move,</hi>
+               </l>
+               <l>Shew they've <hi>affection</hi> to the <hi>Floods</hi>
+  above.</l>
+            </lg>
+            <lg>
+               <l>Now read <hi>me</hi> and <hi>my Love,</hi> which tongue
+  <hi>can't ſpeak,</hi>
+               </l>
+               <l>To you <hi>my Life,</hi> which <hi>Death</hi> nor <hi>Hell</hi>
+  can <hi>break;</hi>
+               </l>
+               <l>Yet ſtill I <hi>pray</hi> in fear, that God
+  <hi>defend</hi>
+               </l>
+               <l>Me from the <hi>ill,</hi> and ſave me to <hi>the end.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And O ye <hi>Branches</hi> of the <hi>Olive Tree,</hi>
+               </l>
+               <l>Your <hi>leaves</hi> are <hi>ſhades,</hi> and <hi>Fruit</hi>
+  is <hi>life</hi> to mee;</l>
+               <l>God's <hi>Wiſdom</hi> which ſurpaſſeth man's
+  <hi>devices,</hi>
+               </l>
+               <l>Hath built <hi>you</hi> as a <hi>Bowre</hi> of <hi>fragrant
+  Spices.</hi>
+               </l>
+               <l>Your <hi>Walks</hi> are <hi>Joyfulneſs,</hi> and
+  <hi>Peace</hi> your <hi>Seat,</hi>
+               </l>
+               <l>Your <hi>Life</hi> is <hi>Bread</hi> and <hi>Wine,</hi> and
+  <hi>Love</hi> is <hi>meat;</hi>
+               </l>
+               <l>
+                  <pb n="31" facs="tcp:106231:16"/>My <hi>ſoul</hi> is planted in your
+  <hi>holy ground,</hi>
+               </l>
+               <l>And here your <hi>flames</hi> of <hi>Love</hi> do me
+  <hi>ſurround;</hi>
+               </l>
+               <l>And on your <hi>ſubſtance,</hi> which <hi>diſtills</hi> as
+  drops</l>
+               <l>Of <hi>heav'nly Dew,</hi> I feed like <hi>Honey-ſops;</hi>
+               </l>
+               <l>Partaker with you in <hi>Community,</hi>
+               </l>
+               <l>Of <hi>good</hi> in <hi>God's Houſe</hi> in the
+  <hi>Unity;</hi>
+               </l>
+               <l>And in the <hi>Stem</hi> my <hi>Branch</hi> with you
+  <hi>repoſes,</hi>
+               </l>
+               <l>Which <hi>bears</hi> the <hi>Buds,</hi> and all the
+  <hi>Damask-Roſes<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>You are the <hi>Bed</hi> compos'd of <hi>heavenly
+  pleaſure</hi>
+               </l>
+               <l>Unto my <hi>ſoul,</hi> yea, God's <hi>peculiar
+  Treaſure.</hi>
+               </l>
+               <l>How purely <hi>run</hi> theſe moſt refreſhing
+  <hi>ſtreams,</hi>
+               </l>
+               <l>In daily <hi>Viſions,</hi> and <hi>Nocturnal Dreams;</hi>
+               </l>
+               <l>The <hi>Fulneſs</hi> verily is in the <hi>Father,</hi>
+               </l>
+               <l>Who doth our <hi>Minds</hi> into his <hi>Boſom</hi>
+  gather,</l>
+               <l>Like tender <hi>Chickens</hi> by the <hi>Clucking Hen,</hi>
+               </l>
+               <l>Whoſe <hi>Name</hi> be prais'd by <hi>Life,</hi> by
+  <hi>Voyce</hi> and <hi>Pen.</hi>
+               </l>
+               <l>Let me <hi>deſcend</hi> from <hi>Sion's</hi> glorious
+  <hi>Mountain,</hi>
+               </l>
+               <l>To ſhew a <hi>Seed</hi> the <hi>Vale</hi> wherein's the
+  <hi>Fountain;</hi>
+               </l>
+               <l>For ſurely I could freely lay down <hi>Life,</hi>
+               </l>
+               <l>With <hi>Blood,</hi> to <hi>buy</hi> a <hi>ſtranger</hi> for
+  my <hi>Wife;</hi>
+               </l>
+               <l>For what's ſo <hi>purchaſed</hi> by
+  <hi>joynt-conſent,</hi>
+               </l>
+               <l>Is as the <hi>Seed</hi> of <hi>Judah's</hi> ſaved Tent;</l>
+               <l>VVhat? Forreigner, wouldſt <hi>thou</hi> walk in in the
+  <hi>Way</hi>
+               </l>
+               <l>Of <hi>Life</hi> and <hi>Peace</hi> in this <hi>God's</hi>
+  ſaving <hi>Day?</hi>
+               </l>
+               <l>Thy whole <hi>Affection</hi> muſt in <hi>ſubſtance</hi>
+  bend,</l>
+               <l>To <hi>that</hi> which brings to <hi>fleſh</hi> a <hi>final
+  end;</hi>
+               </l>
+               <l>And that from <hi>Darkneſs</hi> thou the <hi>Day</hi> mayſt
+  <hi>know,</hi>
+               </l>
+               <l>The <hi>Proud</hi> muſt <hi>bow down</hi> to the <hi>poor</hi>
+  and <hi>low:</hi>
+               </l>
+               <l>For lo the <hi>Sun,</hi> which <hi>gives</hi> the <hi>Day</hi>
+  her <hi>light,</hi>
+               </l>
+               <l>Remains below the <hi>Horizon</hi> all <hi>night.</hi>
+               </l>
+               <l>Such is the <hi>Principle</hi> and <hi>Spark</hi> in thee,</l>
+               <l>Vail'd by <hi>Sin's Clouds,</hi> whereby <hi>thou</hi> canſt
+  not ſee</l>
+               <l>To know the <hi>Poor,</hi> th'<hi>Oppreſſed,</hi> and his
+  Cryes,</l>
+               <l>VVithin thy Self, which in a <hi>Dungeon</hi> lies.</l>
+               <l>Wherefore <hi>draw near</hi> unto the <hi>Earth's</hi> ſhort
+  end,</l>
+               <l>To ſee the <hi>Day-ſtar</hi> and the <hi>Sun</hi>
+  aſcend;</l>
+               <l>For know thou <hi>whilst</hi> that thou doſt there remain,</l>
+               <l>Aſſuredly art <hi>bound</hi> in <hi>Death's black
+  Chain;</hi>
+               </l>
+               <l>
+                  <pb n="32" facs="tcp:106231:17"/>And whilſt thou doſt from
+  <hi>Mountain</hi> run to <hi>Hill,</hi>
+               </l>
+               <l>Seeking a <hi>Stream</hi> to drink thy
+  <hi>lustful-fill,</hi>
+               </l>
+               <l>Arrive thou canſt not unto <hi>Jacob's Well,</hi>
+               </l>
+               <l>For ſo thou run'ſt <hi>to ring</hi> a <hi>broken
+  Bell:</hi>
+               </l>
+               <l>Stand ſtill, I'll touch a Stone and thou ſhalt
+  <hi>know,</hi>
+               </l>
+               <l>That Waters <hi>in thee</hi> out of it <hi>ſhall
+  flow;</hi>
+               </l>
+               <l>In <hi>Conſcience</hi> there's a <hi>ſecret LIGHT
+  within,</hi>
+               </l>
+               <l>VVhich doth diſtinguiſh <hi>Truth</hi> from every
+  <hi>ſin;</hi>
+               </l>
+               <l>That is of <hi>GOD</hi> which <hi>judgeth</hi> works of
+  <hi>Evil,</hi>
+               </l>
+               <l>And <hi>thoughts</hi> in <hi>Man</hi> mov'd of the <hi>tempting
+  Devil;</hi>
+               </l>
+               <l>The Soul which <hi>faithfully</hi> its Judgment keeps,</l>
+               <l>Shall know <hi>Salvation</hi> from the <hi>Darkneſs
+  deeps:</hi>
+               </l>
+               <l>Then follows <hi>Faith</hi> and <hi>Hope,</hi> which gives
+  alone,</l>
+               <l>Th'<hi>Internal Knowledge</hi> of the <hi>vertuous
+  Stone,</hi>
+               </l>
+               <l>Out of which <hi>Waters</hi> pure of Life do
+  <hi>guſh,</hi>
+               </l>
+               <l>And in the ſame's conceal'd the <hi>Burning-buſh.</hi>
+               </l>
+               <l>Then will his <hi>River</hi> run, and <hi>Flames</hi>
+  aſcend</l>
+               <l>Of <hi>heav'nly Vertue,</hi> which ſhall never end.</l>
+               <l>Remember <hi>Man</hi> the LIGHT <hi>within's</hi> the
+  <hi>Way,</hi>
+               </l>
+               <l>From <hi>Darkneſs dwelling</hi> to the <hi>Door</hi> of
+  <hi>Day;</hi>
+               </l>
+               <l>Which leads to <hi>Fulneſs,</hi> free from ev'ry
+  <hi>doubt,</hi>
+               </l>
+               <l>
+                  <hi>Obey'd <hi>within,</hi> poſſeſt,</hi> but <hi>loſt
+  <hi>without:</hi>
+                  </hi>
+               </l>
+               <l>And therefore <hi>Wanderer</hi> at home <hi>retire,</hi>
+               </l>
+               <l>Leſt that thou <hi>ſink</hi> and <hi>periſh</hi> in the
+  <hi>mire.</hi>
+               </l>
+               <l>For that which <hi>leads</hi> Man from the LIGHT
+  <hi>within,</hi>
+               </l>
+               <l>Spurs on the <hi>Race</hi> to <hi>end</hi> the Life <hi>in
+  ſin.</hi>
+               </l>
+               <l>And then of <hi>ſin</hi> in which he <hi>lives</hi> and
+  <hi>dyes,</hi>
+               </l>
+               <l>Shall have his <hi>Wage;</hi> for as he <hi>falls,</hi> he
+  <hi>lyes.</hi>
+               </l>
+               <l>Yet ſtill my <hi>Heart</hi> doth in my Body <hi>burn,</hi>
+               </l>
+               <l>Towards the <hi>Doves,</hi> to whoſe Door I return</l>
+               <l>With <hi>Corn</hi> in <hi>hand,</hi> to <hi>ſpread</hi> before
+  their <hi>eye,</hi>
+               </l>
+               <l>Upon the <hi>Stage</hi> whereto they daily <hi>flye:</hi>
+               </l>
+               <l>Which is the <hi>place</hi> whereon they alwayes
+  <hi>feed,</hi>
+               </l>
+               <l>Amidſt the <hi>houſe</hi> wherein their <hi>young</hi> they
+  <hi>breed.</hi>
+               </l>
+               <l>To all the <hi>Hungry</hi> and the <hi>Thirſty Lambs,</hi>
+               </l>
+               <l>I'm <hi>broken-Bread,</hi> and <hi>Wine</hi> drawn out in
+  <hi>drams.</hi>
+               </l>
+               <l>And of a <hi>truth</hi> it is my <hi>ſoul's</hi> ſweet
+  care,</l>
+               <l>That every <hi>Babe</hi> may <hi>eat</hi> and <hi>drink</hi> a
+  ſhare.</l>
+               <l>
+                  <pb n="33" facs="tcp:106231:17"/>My life in <hi>Sion</hi> would be
+  <hi>alwayes</hi> found</l>
+               <l>Among the <hi>Seed,</hi> a <hi>Salve</hi> to every
+  <hi>wound;</hi>
+               </l>
+               <l>And <hi>perfect Medicine</hi> to every <hi>grief,</hi>
+               </l>
+               <l>And to th' <hi>Oppreſt</hi> an <hi>Arm</hi> of good
+  <hi>relief.</hi>
+               </l>
+               <l>Let not my <hi>Love's heart</hi> languiſh under
+  <hi>ſorrow,</hi>
+               </l>
+               <l>For lo thy <hi>JOY</hi> approacheth with the
+  <hi>Morrow.</hi>
+               </l>
+               <l>The YOKE to <hi>Self,</hi> and <hi>CROSSE</hi> to
+  <hi>Fleſh</hi> fly never,</l>
+               <l>That DEATH may <hi>Dye,</hi> and <hi>LIFE</hi> may <hi>live</hi>
+  for ever;</l>
+               <l>For, ſuffering <hi>Sword</hi> contentedly to
+  <hi>ſlay</hi>
+               </l>
+               <l>The <hi>Mortal,</hi> thou in <hi>Battel</hi> win'ſt the
+  <hi>Day;</hi>
+               </l>
+               <l>Then <hi>Thine's</hi> the <hi>Standard,</hi> and the
+  <hi>Enſign</hi> ſpread,</l>
+               <l>And thou in <hi>Sion</hi> know'ſt the <hi>Ruling
+  head,</hi>
+               </l>
+               <l>Then <hi>Peace,</hi> then <hi>Joy,</hi> then <hi>Pleaſures
+  pure</hi> abound,</l>
+               <l>And <hi>Solace</hi> ſweet, as <hi>Walls,</hi> do thee
+  ſurround:</l>
+               <l>Then <hi>Sobs</hi> and <hi>Grief</hi> GOD from thy <hi>Land</hi>
+  doth <hi>baniſh,</hi>
+               </l>
+               <l>And <hi>Sighs</hi> and <hi>Sorrows</hi> as a <hi>ſhade</hi> do
+  <hi>vaniſh;</hi>
+               </l>
+               <l>Yea, of <hi>thy Trouble</hi> whilſt thou wert
+  <hi>forlorn,</hi>
+               </l>
+               <l>Remains not <hi>thought,</hi> for <hi>joy</hi> a <hi>SON</hi> is
+  <hi>born.</hi>
+               </l>
+               <l>Wherefore, O <hi>Plants,</hi> wait in the <hi>Spirit
+  meek,</hi>
+               </l>
+               <l>And in the <hi>drouth</hi> from God the <hi>Showres</hi>
+  ſeek;</l>
+               <l>In which <hi>ſweet ſtate</hi> you ſhall me
+  <hi>witneſs</hi> bear,</l>
+               <l>God's <hi>fulneſs</hi> feeds each <hi>low heart</hi> full of
+  fear:</l>
+               <l>Who doth <hi>exalt</hi> the <hi>Spirit</hi> of the
+  <hi>Humble,</hi>
+               </l>
+               <l>But the <hi>Exalted</hi> from <hi>his Seat</hi> doth
+  <hi>tumble.</hi>
+               </l>
+               <l>When as the <hi>Woods</hi> in <hi>Summer time</hi> are
+  <hi>green,</hi>
+               </l>
+               <l>The <hi>Thruſtle's</hi> tune <hi>is heard</hi> though ſhe
+  <hi>not ſeen</hi>
+               </l>
+               <l>By any <hi>Mortal,</hi> yet there is <hi>an Eye,</hi>
+               </l>
+               <l>Which ſees how <hi>ſhe</hi> from <hi>Tree</hi> to
+  <hi>Tree</hi> doth <hi>fly,</hi>
+               </l>
+               <l>And doth perceive <hi>whence</hi> her <hi>ſweet Notes</hi>
+  aſpire,</l>
+               <l>And what's the <hi>thing</hi> her <hi>life</hi> doth moſt
+  deſire,</l>
+               <l>Which is the <hi>Book</hi> wherein I read your
+  <hi>Race,</hi>
+               </l>
+               <l>Beyond <hi>wide-Lands, Seas, Time</hi> and <hi>utmoſt
+  Space.</hi>
+               </l>
+               <l>And here <hi>with you I reſt,</hi> I <hi>live</hi> and
+  <hi>dwell,</hi>
+               </l>
+               <l>Like <hi>Silk-worms</hi> hid in one wrought <hi>caſe</hi> and
+  <hi>ſhell;</hi>
+               </l>
+               <l>Yea, lodged in a <hi>ſecret ſuckling Breaſt,</hi>
+               </l>
+               <l>Like as the <hi>young ones</hi> in the <hi>Turtles
+  Neſt.</hi>
+               </l>
+               <l>Dear <hi>Lambs,</hi> true <hi>number</hi> of the <hi>Shepherd's
+  tale,</hi>
+               </l>
+               <l>As <hi>one</hi> by <hi>one</hi> I <hi>hug</hi> and
+  <hi>kiſſe</hi> you all:</l>
+               <l>
+                  <pb n="34" facs="tcp:106231:18"/>Remembring <hi>you,</hi> I drop like
+  <hi>molten Marrow,</hi>
+               </l>
+               <l>Yea, rent, like <hi>Fallow</hi> torn with the
+  <hi>Harrow.</hi>
+               </l>
+               <l>Ah! feel my <hi>Bowels,</hi> which like Rain
+  <hi>diſtills,</hi>
+               </l>
+               <l>And <hi>runs</hi> like <hi>Rivers</hi> down the ſteepeſt
+  <hi>Hills:</hi>
+               </l>
+               <l>Yea, touch my <hi>panting heart</hi> and thereby
+  <hi>learn,</hi>
+               </l>
+               <l>My ſoul moſt <hi>frequent</hi> after you doth
+  <hi>yearn.</hi>
+               </l>
+               <l>I'm <hi>Raviſhed</hi> beholding <hi>Vertue's graces,</hi>
+               </l>
+               <l>Of <hi>Heaven's</hi> Glory to <hi>o're-ſpread</hi> your
+  <hi>faces;</hi>
+               </l>
+               <l>And cannot utter how my <hi>deeps</hi> abound,</l>
+               <l>Of <hi>love</hi> to <hi>you,</hi> which in the <hi>Life</hi> are
+  <hi>found.</hi>
+               </l>
+               <l>You'r at the <hi>Fountain</hi> pure, I plainly ſee,</l>
+               <l>And ſo <hi>am I,</hi> yet ſtill remember me:</l>
+               <l>There in the <hi>Spirit</hi> of <hi>Life, Joy,</hi> and
+  <hi>Peace,</hi>
+               </l>
+               <l>Pray for <hi>your Brother,</hi> pray and <hi>never
+  ceaſe;</hi>
+               </l>
+               <l>For I am <hi>God's</hi> and <hi>Yours</hi> in every
+  <hi>Tryal,</hi>
+               </l>
+               <l>The which you <hi>know</hi> full well <hi>without</hi>
+  denial:</l>
+               <l>So read <hi>me, You, We, One,</hi> through <hi>Life's
+  infuſion,</hi>
+               </l>
+               <l>In the <hi>firſt Principle,</hi> and <hi>last
+  Concluſion.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of JERUSALEM.</head>
+            <lg>
+               <l>THy <hi>Beauty</hi> hath <hi>enamoured me</hi> in <hi>Vertue's
+  Lodge</hi> of <hi>Rest,</hi>
+               </l>
+               <l>A <hi>flaming Torch</hi> thine eye may ſee of <hi>Love</hi>
+  burns in my breaſt;</l>
+               <l>Thou art the <hi>Stone</hi> which doth my <hi>Spirit</hi>
+  whet,</l>
+               <l>Like as the <hi>Razor</hi> which is newly ſet:</l>
+               <l>Ah! feed my <hi>Edge</hi> that's ground <hi>exceeding
+  ſharp,</hi>
+               </l>
+               <l>To ſing thy <hi>Vertue's</hi> praiſe to <hi>David's
+  Harp.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For as an <hi>Hoſt</hi> in <hi>Sion's Coaſt,</hi>
+               </l>
+               <l>of much more ſtrength than <hi>Nations;</hi>
+               </l>
+               <l>Thou doſt <hi>ariſe</hi> before mine <hi>eyes,</hi>
+               </l>
+               <l>in all my <hi>Contemplations.</hi>
+               </l>
+            </lg>
+            <trailer>Here ends what was written in <hi>Rome</hi>-Priſon of
+  Mad-men.</trailer>
+         </div>
+         <div type="poem">
+            <pb n="35" facs="tcp:106231:18"/>
+            <head>To the <hi>Black Power.</hi>
+            </head>
+            <lg>
+               <l>OH <hi>Earth</hi> hear <hi>this,</hi> Oh <hi>Earth,</hi> thy
+  <hi>doleful End</hi> and <hi>Doom,</hi>
+               </l>
+               <l>God comes to <hi>ſweep</hi> the <hi>Nations</hi> in
+  <hi>dread</hi> as with a <hi>Broom;</hi>
+               </l>
+               <l>His mighty <hi>Day</hi>'s at hand, the World to <hi>fan</hi> and
+  <hi>purge,</hi>
+               </l>
+               <l>To <hi>viſit</hi> all the <hi>Wicked,</hi> with his ſore
+  <hi>Plagues</hi> and <hi>Scourge.</hi>
+               </l>
+               <l>Oh <hi>Egypt, Sodom,</hi> thy Inhabitants muſt know,</l>
+               <l>The <hi>Wind</hi> and <hi>Breath</hi> of <hi>GOD</hi> over thy
+  Land to blow,</l>
+               <l>To <hi>curſe</hi> th'<hi>encreaſe</hi> of <hi>Cattle,</hi>
+  and all which thou call'ſt <hi>good,</hi>
+               </l>
+               <l>Thy <hi>Corn,</hi> and <hi>Wine,</hi> and <hi>Oyl,</hi> and all
+  <hi>encreaſe</hi> of <hi>Food:</hi>
+               </l>
+               <l>And what <hi>one <hi>Plague</hi>
+                  </hi> doth leave,
+  <hi>another</hi> ſhall <hi>devour,</hi>
+               </l>
+               <l>Till <hi>ſeven Vials</hi> of <hi>Wrath</hi> God on thy
+  <hi>Land</hi> doth <hi>pour;</hi>
+               </l>
+               <l>Thy <hi>Fountains</hi> he'l <hi>dry up,</hi> like ſtanding
+  <hi>Pools</hi> of mud,</l>
+               <l>Thy <hi>Princes faireſt Wells</hi> alſo ſhall become
+  <hi>Blood:</hi>
+               </l>
+               <l>The <hi>Flower</hi> of thy <hi>Field,</hi> the <hi>Herb</hi> and
+  <hi>Graſs</hi> that's green,</l>
+               <l>The <hi>Locuſts</hi> come <hi>to eat</hi> that none <hi>in
+  thee</hi> be ſeen,</l>
+               <l>God from <hi>thee</hi> all thy <hi>ſtrength</hi> and
+  <hi>praiſe</hi> will <hi>rend</hi> and <hi>tear,</hi>
+               </l>
+               <l>And <hi>compaſs</hi> thee <hi>full ſore,</hi> with
+  <hi>trembling</hi> and with <hi>fear:</hi>
+               </l>
+               <l>Thou would'ſt not let the <hi>Holy Seed</hi> free for to
+  <hi>go;</hi>
+               </l>
+               <l>Therefore upon thee <hi>comes</hi> ſore pangs of
+  <hi>Wrath</hi> and <hi>Wo.</hi>
+               </l>
+               <l>Ye <hi>Pharaohs</hi> of the <hi>Earth</hi> ſaith GOD, What is
+  your <hi>Hoſt?</hi>
+               </l>
+               <l>Why ſay ye, <hi>What is GOD?</hi> Why do ye <hi>vainly
+  boaſt?</hi>
+               </l>
+               <l>For <hi>GOD</hi> in <hi>Righteouſneſs</hi> to
+  <hi>ſave</hi> his <hi>Seed</hi> hath ſworn</l>
+               <l>Throughout the <hi>Land</hi> to <hi>ſlay,</hi> and <hi>cut
+  off</hi> the <hi>Firſt-born.</hi>
+               </l>
+               <l>You'r folded in the <hi>thickneſs</hi> of the <hi>cloudy
+  night;</hi>
+               </l>
+               <l>Yet GOD for <hi>Iſr'el</hi> hath prepar'd a <hi>ſhining
+  LIGHT,</hi>
+               </l>
+               <l>Whoſe <hi>Seed</hi> he'll <hi>lead</hi> by ſtrength and
+  pow'r <hi>out</hi> of your <hi>Land,</hi>
+               </l>
+               <l>By his <hi>out-ſtretched Arm</hi> and mighty <hi>dreadful
+  Hand.</hi>
+               </l>
+               <l>WO then at laſt when you the <hi>SEED purſue</hi> and
+  <hi>follow,</hi>
+               </l>
+               <l>Saying <hi>within <hi>your hearts,</hi>
+                  </hi> This
+  <hi>Remnant</hi> we will <hi>ſwallow:</hi>
+               </l>
+               <l>For there's <hi>a Sea</hi> that's ſet <hi>as Walls</hi> for
+  their <hi>Salvation.</hi>
+               </l>
+               <l>A <hi>Pit</hi> for <hi>Sodom's fall,</hi> for <hi>Egypt</hi> thy
+  <hi>damnation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Read this your <hi>doleful Doom,</hi> you that in darkneſs
+  dwell,</l>
+               <l>The <hi>portion</hi> of the <hi>Wicked,</hi> the <hi>burning
+  Lake</hi> and <hi>Hell.</hi>
+               </l>
+               <l>Your <hi>curſed</hi> wicked <hi>hearts,</hi> have <hi>rob'd
+  GOD</hi> of his Right,</l>
+               <l>In that you've <hi>choſen Lust,</hi> and <hi>hated</hi> the
+  <hi>true Light.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="36" facs="tcp:106231:19"/>
+            <head>To the Seed of the Kingdom.</head>
+            <l>BUt Thou, O <hi>Holy SEED!</hi> a <hi>flame</hi> art in my
+breaſt,</l>
+            <l>In whoſe <hi>ſweet Life</hi> my <hi>ſoul</hi> hath its true
+<hi>Joy</hi> and <hi>Reſt;</hi>
+            </l>
+            <l>Thy <hi>Life's</hi> a ſtream of <hi>Peace,</hi> which
+<hi>Conſolation</hi> brings,</l>
+            <l>And <hi>crowns</hi> with <hi>Glory</hi> more than <hi>Royalty</hi>
+of Kings.</l>
+            <l>What ſhall I liken <hi>Thee</hi> unto, to ſhew thy
+<hi>love,</hi>
+            </l>
+            <l>Which ſtands in <hi>Innocency,</hi> like the ſpotleſs
+<hi>Dove?</hi>
+            </l>
+            <l>Stronger than <hi>all</hi> that can be nam'd, in which is
+breath;</l>
+            <l>Thy <hi>Love,</hi> thy <hi>Light,</hi> thy <hi>Life,</hi> thy
+<hi>Love</hi> ſtronger than <hi>Death.</hi>
+            </l>
+            <l>Oh <hi>SEED!</hi> thou'rt <hi>Zion's <hi>Covenant,</hi>
+               </hi> and
+wedded <hi>Band,</hi>
+            </l>
+            <l>Seal of Everlaſting <hi>Marriage,</hi> given under
+<hi>hand;</hi>
+            </l>
+            <l>The Glorious <hi>Cloathing</hi> of the <hi>Lilly Field</hi> is
+thine,</l>
+            <l>Brighter than <hi>Sun</hi> or <hi>Moon</hi> thy
+<hi>Countenance</hi> doth ſhine.</l>
+            <l>The <hi>Nations</hi> of the Earth <hi>know not,</hi> nor can
+<hi>diſcry</hi>
+            </l>
+            <l>The <hi>Diadem,</hi> the depth of <hi>ſight</hi> that's in thine
+Eye;</l>
+            <l>With Thee I'm <hi>fill</hi>'d, <hi>I flow,</hi> I'm overcome with
+<hi>Love,</hi>
+            </l>
+            <l>I'm <hi>ſetled</hi> here in <hi>Thee,</hi> whom <hi>Nations</hi>
+cannot move,</l>
+            <l>Saith <hi>Zion</hi> now which <hi>trav'ls,</hi> her
+<hi>Children</hi> forth to bring,</l>
+            <l>That they may <hi>witneſs</hi> to the <hi>Glory</hi> of the
+<hi>King.</hi>
+            </l>
+            <l>Oh <hi>travel!</hi> full of <hi>travel!</hi> my ſoul cryes out
+in <hi>pain!</hi>
+            </l>
+            <l>When ſhall <hi>I</hi> ſee <hi>Worm Jacob's</hi> riſe from
+<hi>loſs</hi> to <hi>gain?</hi>
+            </l>
+            <l>The time of <hi>Trouble</hi>'s come, I'm <hi>overwhelm'd</hi> with
+<hi>Grief,</hi>
+            </l>
+            <l>Till <hi>Jacob</hi>'s time doth come <hi>Redemption</hi> and
+<hi>Relief;</hi>
+            </l>
+            <l>The feeling of <hi>my ſorrows,</hi> who's ſet to ſee mine
+hours</l>
+            <l>Of <hi>Lamentations</hi> ſtreams; like <hi>Brooks,</hi> falling
+like <hi>ſhowres.</hi>
+            </l>
+            <l>Oh bleſſed yet, that I have <hi>feeling</hi> for to ſee,</l>
+            <l>For <hi>Jacob's</hi> ſake my <hi>travel,</hi> like a <hi>little
+Bee.</hi>
+            </l>
+            <l>Here I would <hi>dwell,</hi> if happily <hi>to ſee</hi> his
+birth,</l>
+            <l>Rather than <hi>feaſt</hi> in <hi>Dive's houſe</hi> t'enjoy
+his <hi>mirth.</hi>
+            </l>
+            <l>Oh <hi>SEED</hi> thou'rt his <hi>Redeemer,</hi> when wilt thou his
+life raiſe?</l>
+            <l>That <hi>he</hi> unto thy <hi>Name</hi> may be ev'rlaſting
+praiſe.</l>
+            <l>And give him a <hi>Poſſeſſion,</hi> as his perpetual
+<hi>right,</hi>
+            </l>
+            <l>T'inherit in the Land of <hi>Life,</hi> thy 'ternal
+<hi>Light.</hi>
+            </l>
+            <l>My head be thou <hi>lift up</hi> like a <hi>fiery Cloud,</hi>
+            </l>
+            <l>To <hi>Judgment</hi> and to <hi>Slaughter,</hi> of all the
+<hi>high</hi> and <hi>Proud;</hi>
+            </l>
+            <l>
+               <pb n="37" facs="tcp:106231:19"/>Oh! bend thy <hi>Bow,</hi> and ſhoot thine
+<hi>Arrows</hi> and thy <hi>Dart,</hi>
+            </l>
+            <l>And <hi>pierce</hi> the Wicked <hi>ſore,</hi> and <hi>wound</hi>
+even to the <hi>heart;</hi>
+            </l>
+            <l>Send forth thy <hi>dreadful Voices,</hi> by <hi>Lightning</hi> and
+by <hi>Thunder;</hi>
+            </l>
+            <l>
+               <hi>Aſtoniſh</hi> all the <hi>Heathen,</hi> and make the
+<hi>Nations wonder;</hi>
+            </l>
+            <l>Feed them with <hi>Terrors,</hi> as thou doſt thine own with
+<hi>Bread,</hi>
+            </l>
+            <l>And let the <hi>Nations feel</hi> thy <hi>Vengeance</hi> and thy
+<hi>Dread.</hi>
+            </l>
+            <l>Oh! my <hi>right hand,</hi> draw out thy ſhining glitt'ring
+<hi>Sword,</hi>
+            </l>
+            <l>Smite all the <hi>Shepherds</hi> of the <hi>Earth</hi> with thy
+<hi>pure Word.</hi>
+            </l>
+            <l>Gather thine own <hi>Remnant</hi> from <hi>Eaſt, Weſt,
+North</hi> and <hi>South,</hi>
+            </l>
+            <l>From all the <hi>Sluggards</hi> and the <hi>ſlumbring
+Shepherds</hi> mouth.</l>
+            <l>And bring <hi>thy Seed</hi> from <hi>Death</hi> and
+<hi>Darkneſs,</hi> to the Day,</l>
+            <l>And from the <hi>Voice</hi> of <hi>ſuch</hi> as have made them a
+prey;</l>
+            <l>Let nothing <hi>hinder</hi> now, but <hi>work</hi> and let none
+<hi>let,</hi>
+            </l>
+            <l>Set <hi>Gins,</hi> ſet <hi>Snares,</hi> ſet <hi>Traps,</hi> to
+<hi>catch</hi> them in thy <hi>Net.</hi>
+            </l>
+            <l>They've <hi>ſlain</hi> and led thy <hi>Seed</hi> into
+<hi>Captivity,</hi>
+            </l>
+            <l>Reward them <hi>double</hi> the <hi>Wages</hi> of
+<hi>Iniquity;</hi>
+            </l>
+            <l>Cut off, <hi>deſtroy,</hi> The SEED Cryes <hi>utterly
+confound,</hi>
+            </l>
+            <l>Pluck <hi>up,</hi> ſpare not a <hi>branch,</hi> nor leave a
+<hi>root</hi> in ground;</l>
+            <l>That we the <hi>leaſt,</hi> who are <hi>thine own,</hi> thine
+own <hi>Creation,</hi>
+            </l>
+            <l>May ſing much <hi>Praiſe</hi> of <hi>Thee,</hi> the
+<hi>LORD</hi> of our <hi>Salvation.</hi>
+            </l>
+            <l>Let all the Heavens <hi>ſhout,</hi> for <hi>BABYLON</hi>'s
+undone;</l>
+            <l>Let all the <hi>Earth</hi> now <hi>fear,</hi> for her <hi>juſt
+Judgment's</hi> come;</l>
+            <l>Her <hi>End</hi> is <hi>Miſery,</hi> broken are her
+<hi>Childrens bones,</hi>
+            </l>
+            <l>For <hi>GOD</hi> hath ſeen it <hi>Juſt,</hi> to <hi>daſh
+them</hi> all 'gainſt <hi>ſtones.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <head>To BABYLON.</head>
+            <l>THou that didſt ſit as <hi>Queen,</hi> and couldeſt not then
+think</l>
+            <l>Of this thine <hi>hour</hi> and <hi>portion,</hi> the <hi>Cup</hi>
+which thou muſt drink;</l>
+            <l>Thou then wert <hi>merry</hi> in thine <hi>heart,</hi> &amp;
+couldeſt ſup</l>
+            <l>
+               <hi>Idolatry,</hi> but now the <hi>dregs</hi> of <hi>Wrath</hi>'s
+thy <hi>Cup.</hi>
+            </l>
+            <l>Thou didſt not <hi>think</hi> when in thy <hi>Luſts</hi> thou
+wert full hot,</l>
+            <l>The ſealing <hi>up</hi> of <hi>Veng'ance</hi> to be thy laſt
+lot.</l>
+         </div>
+         <div type="poem">
+            <pb n="38" facs="tcp:106231:20"/>
+            <head>To the Man of Luſt.</head>
+            <lg>
+               <l>YE <hi>ſons</hi> of <hi>men,</hi> that live in <hi>Sin</hi>
+  and <hi>Luſt,</hi>
+               </l>
+               <l>That is your <hi>Canker,</hi> it will <hi>eat</hi> like
+  <hi>ruſt;</hi>
+               </l>
+               <l>You that are <hi>ignorant</hi> of the <hi>Serpent's
+  ſeed</hi>
+               </l>
+               <l>Of <hi>Enmity,</hi> and what in you 'twill breed,</l>
+               <l>Hear this, and read the <hi>nature</hi> and the
+  <hi>ground,</hi>
+               </l>
+               <l>That <hi>you</hi> in the <hi>true Wiſdom</hi> may grow
+  <hi>ſound,</hi>
+               </l>
+               <l>To ſee the <hi>windings</hi> of the <hi>Serpent's
+  path,</hi>
+               </l>
+               <l>To flee his <hi>ſnares,</hi> and ſo <hi>eſcape</hi> the
+  <hi>wrath,</hi>
+               </l>
+               <l>Which on th'<hi>ungodly</hi> cometh, as a <hi>flood,</hi>
+               </l>
+               <l>To <hi>ſweep</hi> them all, from <hi>all,</hi> which they
+  <hi>call Good;</hi>
+               </l>
+               <l>And bring the <hi>end</hi> of <hi>ſore perplexity</hi>
+               </l>
+               <l>Upon all <hi>workers</hi> of <hi>Iniquity.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O man, <hi>encline</hi> thine <hi>ear</hi> to me, and read</l>
+               <l>The <hi>fruits</hi> of that <hi>corrupted ground</hi> and
+  <hi>ſeed,</hi>
+               </l>
+               <l>Which, as the <hi>plant</hi> of <hi>Satan,</hi> forth doth
+  ſpring</l>
+               <l>
+                  <hi>Pride, Luſt</hi> and <hi>Drunkenneſs,</hi> and all
+  that's <hi>ſin,</hi>
+               </l>
+               <l>
+                  <hi>Whoredoms, Adulteries, Theft</hi> and <hi>all Evil,</hi>
+               </l>
+               <l>
+                  <hi>Oaths, curſed Speeches, Lyes, works</hi> of the
+  <hi>Devil;</hi>
+               </l>
+               <l>All <hi>flattering Titles,</hi> ſmooth deceitful
+  <hi>words,</hi>
+               </l>
+               <l>Which <hi>wounds</hi> the <hi>Innocent,</hi> even as with
+  <hi>Swords.</hi>
+               </l>
+               <l>Theſe are the <hi>fruits</hi> of that <hi>plant of
+  corruption,</hi>
+               </l>
+               <l>Which doth <hi>deceive</hi> the <hi>ſoul</hi> and bring
+  <hi>deſtruction.</hi>
+               </l>
+               <l>Read this the <hi>Iſſue,</hi> when that <hi>GOD</hi> at
+  <hi>laſt</hi>
+               </l>
+               <l>Blows over <hi>Fruit</hi> and <hi>Trees</hi> with his ſtrong
+  <hi>blast;</hi>
+               </l>
+               <l>That is the <hi>SEED</hi> which in thine <hi>heart</hi> doth
+  <hi>ſpring,</hi>
+               </l>
+               <l>Telling thee what <hi>advantage Lyes</hi> do bring</l>
+               <l>Of the <hi>corrupted Mammon</hi> to thy ſtore,</l>
+               <l>And how <hi>falſe Oaths</hi> encreaſe thee <hi>more</hi> and
+  <hi>more;</hi>
+               </l>
+               <l>Still that's the <hi>Seed</hi> which tells thee <hi>ſure thou
+  muſt</hi>
+               </l>
+               <l>Have <hi>pleaſure</hi> in <hi>this life,</hi> in <hi>Wine</hi>
+  and <hi>Luſt,</hi>
+               </l>
+               <l>In <hi>theſe</hi> and all <hi>perſwaſions</hi> unto
+  <hi>Evil</hi>
+               </l>
+               <l>Working thy <hi>mind,</hi> that's the <hi>ſeed</hi> of the
+  <hi>Devil.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And yet if thou wouldſt <hi>wiſely</hi> further
+  <hi>know,</hi>
+               </l>
+               <l>Thy <hi>heart's</hi> the <hi>ground</hi> in which that
+  <hi>ſeed</hi> doth grow,</l>
+               <l>
+                  <pb n="39" facs="tcp:106231:20"/>Which <hi>ſeed</hi> muſt <hi>dye</hi>
+  through <hi>breaking</hi> of the ground,</l>
+               <l>Elſe thou to <hi>Endleſs WO</hi> and <hi>WRATH</hi> art
+  bound.</l>
+            </lg>
+            <lg>
+               <l>And now I'nquire of you, what are your <hi>hopes</hi>
+               </l>
+               <l>Which draw <hi>Iniquity,</hi> as with <hi>Cart-ropes?</hi>
+               </l>
+               <l>What is the <hi>fruit</hi> of <hi>Hope, Life</hi> and
+  <hi>Salvation?</hi>
+               </l>
+               <l>And what's the <hi>ground</hi> in which is ſeal'd
+  <hi>Damnation?</hi>
+               </l>
+               <l>And you that live in <hi>Luſt</hi> and full of
+  <hi>mirth,</hi>
+               </l>
+               <l>Declare your <hi>gladneſs</hi> by your <hi>life</hi> and
+  <hi>birth;</hi>
+               </l>
+               <l>And tell me, what's the <hi>Kingdom</hi> you poſſeſs</l>
+               <l>As <hi>Heirs</hi> and <hi>Lords?</hi> your <hi>own</hi> you may
+  confeſs.</l>
+               <l>Tell me the <hi>end</hi> of all your <hi>Vanity,</hi>
+               </l>
+               <l>
+                  <hi>Feaſts, Sports, Games, Mirth, Muſick</hi> and
+  <hi>Melody?</hi>
+               </l>
+               <l>What is your <hi>Love</hi> affected <hi>hearts</hi> delight?</l>
+               <l>To all this, if you can, anſwer the <hi>LIGHT,</hi>
+               </l>
+               <l>And give Accompt, How comes the <hi>Encreaſe</hi> with
+  <hi>Curſe</hi>
+               </l>
+               <l>In <hi>Field,</hi> in <hi>Houſe,</hi> in <hi>Basket,
+  Store</hi> and <hi>Purſe?</hi>
+               </l>
+               <l>Anſwer the <hi>SEED,</hi> what is the <hi>End</hi> of all</l>
+               <l>Which <hi>live</hi> and <hi>dye</hi> in <hi>ſin,</hi> even in
+  the <hi>fall?</hi>
+               </l>
+               <l>And thou that <hi>liv'ſt</hi> in <hi>ſin</hi> whilſt thou
+  haſt <hi>breath,</hi>
+               </l>
+               <l>Conſider well thy <hi>last end</hi> when comes
+  <hi>death.</hi>
+               </l>
+               <l>Come all you <hi>Sects</hi> and <hi>anſwer,</hi> What's the
+  <hi>ground</hi>
+               </l>
+               <l>In which <hi>Iniquity</hi> is alwayes <hi>found?</hi>
+               </l>
+               <l>Put all your <hi>Worſhips</hi> forth in your <hi>beſt
+  order,</hi>
+               </l>
+               <l>And I will ſhew how you <hi>joyn</hi> and <hi>border</hi>
+               </l>
+               <l>As <hi>Brethren, Neighbours, Nations,</hi> under <hi>one
+  Power</hi>
+               </l>
+               <l>Of <hi>Satan's Kingdom, DARKNESS,</hi> in one <hi>hour,</hi>
+               </l>
+               <l>All <hi>link't</hi> in <hi>Sin</hi> together in a
+  <hi>Chain,</hi>
+               </l>
+               <l>Which is the <hi>ſubſtance</hi> of the <hi>Devil's
+  Raign:</hi>
+               </l>
+               <l>To that of GOD in <hi>Gentile</hi> and in <hi>Jew</hi>
+               </l>
+               <l>This ſavoureth as <hi>Salt,</hi> this thing is
+  <hi>true.</hi>
+               </l>
+               <l>For what <hi>if you</hi> to all your <hi>forms</hi> are
+  bound</l>
+               <l>Of <hi>Worſhip?</hi> yet you <hi>ſtanding</hi> in <hi>one
+  ground</hi>
+               </l>
+               <l>Of <hi>Luſt,</hi> of <hi>Sin,</hi> and Nature of
+  <hi>Tranſgreſſion,</hi>
+               </l>
+               <l>That <hi>binds</hi> in <hi>Unity</hi> beyond
+  <hi>Confeſſion.</hi>
+               </l>
+               <l>In <hi>ſubſtance</hi> there's but <hi>two,</hi> that's
+  <hi>NIGHT</hi> and <hi>DAY,</hi>
+               </l>
+               <l>Sin <hi>DARKNESS</hi> the <hi>broad one: LIGHT</hi> the <hi>true
+  way.</hi>
+               </l>
+               <l>And you in whom is <hi>love,</hi> and not of GOD,</l>
+               <l>You are to drink his <hi>Wrath,</hi> and feel his
+  <hi>Rod.</hi>
+               </l>
+               <l>
+                  <pb n="40" facs="tcp:106231:21"/>If you've another <hi>love,</hi> then
+  <hi>GOD</hi>'s forgotten,</l>
+               <l>Then the Affection's <hi>lost,</hi> the Heart is
+  <hi>rotten,</hi>
+               </l>
+               <l>And that's not <hi>ſound</hi> which wanteth <hi>any
+  part:</hi>
+               </l>
+               <l>For GOD requires <hi>whole Man, Mind, Spirit, Heart;</hi>
+               </l>
+               <l>So this <hi>in Man</hi> is the <hi>Iniquity,</hi>
+               </l>
+               <l>Where's <hi>fleſhly love,</hi> that's the
+  <hi>Idolatry;</hi>
+               </l>
+               <l>For all that <hi>ſtands</hi> brought forth in the <hi>firſt
+  nature,</hi>
+               </l>
+               <l>Sticks only <hi>faſt</hi> to the <hi>Luſt</hi> of the
+  <hi>Creature,</hi>
+               </l>
+               <l>Here GOD's <hi>unknown,</hi> for in <hi>man's heart</hi> he'th
+  ſet</l>
+               <l>The <hi>World,</hi> with which he's <hi>ſnar'd</hi> as in a
+  <hi>Net;</hi>
+               </l>
+               <l>So that <hi>GOD's Work</hi> Man <hi>knows not,</hi> not his
+  <hi>Way,</hi>
+               </l>
+               <l>All which <hi>GOD</hi> brings <hi>to paſs</hi> in his own
+  <hi>Day.</hi>
+               </l>
+               <l>Nor can <hi>find out,</hi> although <hi>his dayes</hi> he
+  ſpend</l>
+               <l>In <hi>ſeeking,</hi> from <hi>beginning</hi> to the
+  <hi>end.</hi>
+               </l>
+               <l>So all you that are in the <hi>Hiſtory,</hi>
+               </l>
+               <l>
+                  <hi>Read</hi> if you can, and <hi>reach</hi> this
+  <hi>Myſtery,</hi>
+               </l>
+               <l>The <hi>Life</hi> that's hid in bottom of the <hi>Deep,</hi>
+               </l>
+               <l>What's <hi>that?</hi> and where's the <hi>place</hi> that
+  <hi>Virgins weep?</hi>
+               </l>
+               <l>Becauſe that of their own <hi>Affinity</hi>
+               </l>
+               <l>With them, hath <hi>loſt</hi> the <hi>Life</hi> of
+  <hi>Unity.</hi>
+               </l>
+               <l>Do you know what the ſwelling <hi>Seas</hi> devour,</l>
+               <l>On which <hi>the Heavens</hi> once did <hi>ſmile,</hi> and
+  <hi>ſhowre</hi>
+               </l>
+               <l>Down <hi>drops</hi> of <hi>pleaſant Rain,</hi> and made it
+  <hi>ſpring,</hi>
+               </l>
+               <l>Like to <hi>a Lilly-flower</hi> for the <hi>King?</hi>
+               </l>
+               <l>The <hi>Wilderneſs</hi> whereto the <hi>Woman</hi> fled,</l>
+               <l>What's that? how <hi>lodg'd SHE</hi> in a ſecret bed,</l>
+               <l>To keep her <hi>Innocency</hi> undefil'd,</l>
+               <l>That ſhe the <hi>Lamb's Wife</hi> juſtly might be
+  ſtil'd?</l>
+               <l>From all the <hi>unconverted</hi> and <hi>unheal'd,</hi>
+               </l>
+               <l>The <hi>Myſt'ries</hi> of <hi>GOD's Kingdom</hi> are all
+  ſeal'd,</l>
+               <l>From <hi>Ignorant</hi> and <hi>learned</hi> in the
+  <hi>World,</hi>
+               </l>
+               <l>That in Invention <hi>to</hi> and <hi>fro</hi> are hurl'd.</l>
+               <l>The <hi>Parable</hi> is brought for all to ſee,</l>
+               <l>The <hi>Unlearned</hi> ſaith, this is <hi>too hard for
+  me;</hi>
+               </l>
+               <l>The <hi>Learned</hi> ſaith, to me <hi>it's alſo
+  ſeal'd:</hi>
+               </l>
+               <l>By which I know they yet remain <hi>unheal'd.</hi>
+               </l>
+               <l>Some in their time have <hi>ſwollen</hi> like the
+  <hi>Seas,</hi>
+               </l>
+               <l>And choſe them <hi>paths,</hi> even what their hearts <hi>did
+  pleaſe.</hi>
+               </l>
+               <l>
+                  <pb n="41" facs="tcp:106231:21"/>
+                  <hi>Invention</hi> up did ſpring, and they
+  were <hi>bound,</hi>
+               </l>
+               <l>In <hi>Chains</hi> of <hi>blackneſs;</hi> and caſt to the
+  ground;</l>
+               <l>For they <hi>a work</hi> among them had <hi>begun,</hi>
+               </l>
+               <l>
+                  <hi>BABEL</hi> to <hi>build</hi> to mount <hi>above</hi> the
+  <hi>Sun.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To the Apoſtatized.</head>
+            <lg>
+               <l>TO them which <hi>heard</hi> the <hi>ſound</hi> of <hi>GOD's
+  great DAY,</hi>
+               </l>
+               <l>And came <hi>to ſee</hi> the <hi>ſtraitneſs</hi> of the
+  <hi>WAY,</hi>
+               </l>
+               <l>And <hi>own'd</hi> the <hi>Teſtimony</hi> of the
+  <hi>LIGHT,</hi>
+               </l>
+               <l>Confeſſing <hi>it</hi> which gave them the <hi>true
+  ſight</hi>
+               </l>
+               <l>Of all <hi>Sin, Evil,</hi> and <hi>Ungodlineſs,</hi>
+               </l>
+               <l>And ſaw ſome <hi>cleanſing</hi> from their
+  <hi>filthineſs:</hi>
+               </l>
+               <l>But turning <hi>to their Vomit</hi> like the <hi>Dog,</hi>
+               </l>
+               <l>And to the <hi>Mire,</hi> like to the <hi>unclean Hog,</hi>
+               </l>
+               <l>Thy <hi>Judgment's just</hi> to <hi>Wo</hi> and
+  <hi>Miſery,</hi>
+               </l>
+               <l>Being <hi>double wrought</hi> under <hi>Iniquity.</hi>
+               </l>
+               <l>Remember how <hi>thy heart</hi> and <hi>mind</hi> did
+  <hi>grudge,</hi>
+               </l>
+               <l>To give <hi>up Life</hi> and <hi>all;</hi> which <hi>GOD</hi>
+  will <hi>Judge;</hi>
+               </l>
+               <l>For <hi>thou</hi> unto the <hi>World</hi> in their
+  <hi>diſtruſt</hi>
+               </l>
+               <l>Art joyn'd, to <hi>crave</hi> and <hi>ſeek</hi> to feed thy
+  <hi>luſt:</hi>
+               </l>
+               <l>And here thou ſay'ſt <hi>thou ſin'ſt,</hi> and <hi>'tis
+  thy grief,</hi>
+               </l>
+               <l>
+                  <hi>Hopeleſs</hi> of <hi>cleanſing <hi>here,</hi>
+                  </hi> in
+  <hi>Unbelief.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But mark the <hi>end</hi> of all that <hi>live</hi> and
+  <hi>dye</hi> in <hi>ſin,</hi>
+               </l>
+               <l>I tell thee their ſad <hi>doleful doom, <hi>Death</hi>
+                  </hi> is
+  <hi>their ſting.</hi>
+               </l>
+               <l>
+                  <hi>Nations, Profeſſors</hi> all in <hi>ſin</hi> bound in
+  a <hi>bundle,</hi>
+               </l>
+               <l>Like as the ſheaf of <hi>Tares,</hi> GOD in the <hi>Lake</hi>
+  will <hi>tumble.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To the ſimple Seeker.</head>
+            <lg>
+               <l>THou that doſt <hi>pant,</hi> as one in <hi>want,</hi>
+               </l>
+               <l>and <hi>earneſtly</hi> doſt <hi>look,</hi>
+               </l>
+               <l>Like as the <hi>Roe,</hi> in places <hi>low</hi>
+               </l>
+               <l>to <hi>find</hi> the <hi>Water-brook.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="42" facs="tcp:106231:22"/>
+               <l>In travel <hi>great,</hi> in pain and <hi>ſweat</hi>
+               </l>
+               <l>the <hi>River</hi> for to <hi>find,</hi>
+               </l>
+               <l>To bath and <hi>cool,</hi> in the <hi>freſh Pool,</hi>
+               </l>
+               <l>like as the <hi>Hart</hi> and <hi>Hind.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I ſee thy <hi>face,</hi> thou <hi>ſeek'ſt</hi> for
+  <hi>Grace,</hi>
+               </l>
+               <l>my <hi>Lilly Seed</hi> come <hi>prove,</hi>
+               </l>
+               <l>Whilſt it is <hi>day,</hi> I'll ſhew the <hi>Way,</hi>
+               </l>
+               <l>the <hi>LIGHT's</hi> my <hi>Joy</hi> and <hi>Love.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh he which <hi>hath,</hi> trodden in this <hi>path,</hi>
+               </l>
+               <l>hath ſeen the <hi>glorious Mountain,</hi>
+               </l>
+               <l>Which from whoſe <hi>top,</hi> Springs <hi>fall</hi> and
+  <hi>drop,</hi>
+               </l>
+               <l>this is the <hi>endleſs Fountain.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No longer <hi>think,</hi> but come and <hi>drink,</hi>
+               </l>
+               <l>
+                  <hi>refreſh</hi> thee with <hi>the good;</hi>
+               </l>
+               <l>It's pleaſant <hi>Wine,</hi> of the <hi>true Vine,</hi>
+               </l>
+               <l>the <hi>ſubſtance</hi> of all <hi>food.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Be no more <hi>tost,</hi> as one that's <hi>lost;</hi>
+               </l>
+               <l>but come unto the <hi>LIGHT,</hi>
+               </l>
+               <l>Which ſhews <hi>mens deeds,</hi> to be <hi>but weeds</hi>
+               </l>
+               <l>which <hi>grow</hi> in time of <hi>Night.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And that <hi>within,</hi> which ſhews <hi>thy ſin,</hi>
+               </l>
+               <l>if thou <hi>lov'ſt</hi> it <hi>ſincere,</hi>
+               </l>
+               <l>Awe and fear <hi>GOD,</hi> and love his <hi>Rod,</hi>
+               </l>
+               <l>from <hi>ſin</hi> it will thee <hi>clear.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Be at a <hi>beck,</hi> when <hi>LIGHT</hi> doth
+  <hi>check</hi>
+               </l>
+               <l>the <hi>ſecrets</hi> of thy <hi>mind;</hi>
+               </l>
+               <l>Let it <hi>reprove,</hi> joyn thou in <hi>love,</hi>
+               </l>
+               <l>and ſo <hi>true Peace</hi> thou'lt <hi>find.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Do not <hi>gain-ſay,</hi> but ſtill <hi>obey</hi>
+               </l>
+               <l>the <hi>Motions</hi> of the <hi>LIGHT;</hi>
+               </l>
+               <l>Through <hi>Fire</hi> to <hi>come,</hi> as one that's
+  <hi>won</hi>
+               </l>
+               <l>againſt <hi>Deceit</hi> to fight.</l>
+            </lg>
+            <lg>
+               <pb n="43" facs="tcp:106231:22"/>
+               <l>And thou wilt <hi>reſt,</hi> as at the <hi>breſt,</hi>
+               </l>
+               <l>ſucking <hi>the Milk</hi> of <hi>pleaſure,</hi>
+               </l>
+               <l>The Babe to <hi>nouriſh,</hi> the Life to
+  <hi>flouriſh,</hi>
+               </l>
+               <l>
+                  <hi>this is th'everlaſting Treaſure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>So in this <hi>hour,</hi> dwell in the <hi>Power</hi>
+               </l>
+               <l>which all the <hi>World</hi> doth <hi>chain,</hi>
+               </l>
+               <l>Proſper in th'<hi>Light,</hi> conquer in <hi>fight,</hi>
+               </l>
+               <l>and in <hi>Dominion reign.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>To the Babes of Bleſſing.</head>
+            <lg>
+               <l>TO my dear pleaſant <hi>Babes</hi> and <hi>Lambs,</hi>
+               </l>
+               <l>Skipping like <hi>Rams</hi>
+               </l>
+               <l>over the <hi>Little Hills,</hi>
+               </l>
+               <l>Like <hi>leaping Roes</hi> on Mountains <hi>high,</hi>
+               </l>
+               <l>as Doves do <hi>fly</hi>
+               </l>
+               <l>whom <hi>Innocency fills.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>My <hi>Life</hi> and <hi>Spirit</hi> doth you
+  <hi>greet,</hi>
+               </l>
+               <l>and with you <hi>meet</hi>
+               </l>
+               <l>in the ſweet <hi>Fields</hi> of <hi>pleaſure,</hi>
+               </l>
+               <l>The <hi>Garden</hi> where the <hi>Roſes grow,</hi>
+               </l>
+               <l>and <hi>Waters flow,</hi>
+               </l>
+               <l>the <hi>Husbandman's</hi> own <hi>Treaſure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When I <hi>beheld</hi> the <hi>lovely ſtreams,</hi>
+               </l>
+               <l>and the <hi>Sun beams</hi>
+               </l>
+               <l>which <hi>cometh</hi> from <hi>on high,</hi>
+               </l>
+               <l>The ſhining <hi>Glory</hi> of the <hi>Sun,</hi>
+               </l>
+               <l>which you have <hi>won,</hi>
+               </l>
+               <l>unto the <hi>LORD</hi> ſo <hi>nigh.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I'm <hi>fill'd</hi> beyond what <hi>words</hi> can
+  <hi>meaſure,</hi>
+               </l>
+               <l>with <hi>Virtue's Treaſure</hi>
+               </l>
+               <l>of <hi>Love</hi> to Virgins <hi>pure,</hi>
+               </l>
+               <l>
+                  <pb n="44" facs="tcp:106231:23"/>Who were in many Tempeſts
+  <hi>toſt,</hi>
+               </l>
+               <l>and yet not <hi>lost,</hi>
+               </l>
+               <l>which <hi>dwell</hi> in <hi>Sion ſure.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Who knows the <hi>Ships path</hi> in the <hi>Sea?</hi>
+               </l>
+               <l>So is <hi>your way,</hi>
+               </l>
+               <l>where <hi>Lions</hi> cannot tread,</l>
+               <l>In which you witneſs <hi>ſtrength</hi> and
+  <hi>skill,</hi>
+               </l>
+               <l>to <hi>wound</hi> and <hi>kill</hi>
+               </l>
+               <l>and <hi>bruiſe</hi> the <hi>Serpent's head.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh <hi>Lambs</hi> the <hi>faireſt</hi> of all
+  <hi>Flocks,</hi>
+               </l>
+               <l>upon you <hi>drops</hi>
+               </l>
+               <l>all <hi>Bleſſing</hi> from <hi>above,</hi>
+               </l>
+               <l>Freſh <hi>ſtreams</hi> of <hi>Oyl</hi> upon your
+  <hi>head,</hi>
+               </l>
+               <l>lay'n in the <hi>Bed</hi>
+               </l>
+               <l>of <hi>Everlasting Love.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Myrrh, Frankinſence</hi> and <hi>Aluice,</hi>
+               </l>
+               <l>
+                  <hi>ſweet Wine</hi> and <hi>Spice,</hi>
+               </l>
+               <l>and all that the <hi>Earth yeelds,</hi>
+               </l>
+               <l>
+                  <hi>Herbs, Flowers, Milk</hi> and <hi>pleaſant Trees,</hi>
+               </l>
+               <l>
+                  <hi>Honey</hi> of <hi>Bees</hi>
+               </l>
+               <l>is <hi>Yours,</hi> in <hi>Woods</hi> and <hi>Fields.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Oh! <hi>holy Land</hi> full of the Seed's
+  <hi>encreaſe,</hi>
+               </l>
+               <l>which cannot <hi>ceaſe</hi>
+               </l>
+               <l>
+                  <hi>multiplying</hi> to the <hi>ſtore;</hi>
+               </l>
+               <l>Being <hi>ſeal'd</hi> in <hi>Covenant</hi> and
+  <hi>Band,</hi>
+               </l>
+               <l>given under <hi>hand</hi>
+               </l>
+               <l>to this <hi>for evermore.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>SION'S</hi> ORATION.</head>
+            <l>SAith <hi>Zion,</hi> all the <hi>Gold</hi> which Mountains
+<hi>hide</hi>
+            </l>
+            <l>In all the <hi>compaſs</hi> of the World ſo <hi>wide,</hi>
+            </l>
+            <l>And all the <hi>ſubſtance</hi> which the <hi>ſwelling
+waves</hi>
+            </l>
+            <l>Have <hi>ſwallowed</hi> in her <hi>Womb,</hi> like as the
+<hi>Graves;</hi>
+            </l>
+            <l>
+               <pb n="45" facs="tcp:106231:23"/>All <hi>precious Stones</hi> and
+<hi>Pearls,</hi> cover'd with <hi>Rocks,</hi>
+            </l>
+            <l>Hid under <hi>rotten roots</hi> of
+<hi>ſtumbling-blocks:</hi>
+            </l>
+            <l>All <hi>pure Silver</hi> that <hi>lyes deep</hi> in ground,</l>
+            <l>The <hi>time</hi> approacheth it muſt all be found.</l>
+            <l>Ariſe, <hi>fair Daughter,</hi> gather <hi>quick</hi> and
+<hi>bring</hi>
+            </l>
+            <l>The <hi>Conſecrated Subſtance</hi> to the <hi>King.</hi>
+            </l>
+            <l>And all ye <hi>ſons,</hi> which <hi>Zion's womb</hi> did
+bear,</l>
+            <l>Take <hi>Inſtrument</hi> in hand, work without <hi>fear</hi>
+            </l>
+            <l>Of <hi>Wolf, Fox, Tigre, Bear,</hi> or <hi>Lion;</hi>
+            </l>
+            <l>For <hi>GOD</hi> is the <hi>Salvation</hi> of <hi>Sion,</hi>
+            </l>
+            <l>Till that be <hi>finiſh't</hi> which GOD hath
+<hi>decreed,</hi>
+            </l>
+            <l>The <hi>Reſtauration</hi> of his <hi>Holy SEED.</hi>
+            </l>
+            <l>Come, <hi>hunt</hi> the <hi>Wolves,</hi> and
+<hi>Wild-beaſts</hi> of the Wood,</l>
+            <l>Which <hi>ſlew</hi> the <hi>Lambs,</hi> and feaſted on their
+<hi>Blood;</hi>
+            </l>
+            <l>For they'r <hi>appointed</hi> in all times hereafter</l>
+            <l>For <hi>ſtarving,</hi> reſtleſs <hi>pangs</hi> of
+<hi>death</hi> and <hi>ſlaughter.</hi>
+            </l>
+            <l>Now <hi>GOD</hi> in <hi>Judgment</hi> comes to reprove
+<hi>Kings,</hi>
+            </l>
+            <l>To ſhew their <hi>Counſels</hi> like as <hi>fooliſh
+things,</hi>
+            </l>
+            <l>VVho ſeek with <hi>bryars</hi> and <hi>thorns</hi> to ſtop the
+<hi>way,</hi>
+            </l>
+            <l>Which <hi>GOD</hi> by's <hi>Breath</hi> will <hi>burn</hi> in a
+<hi>day.</hi>
+            </l>
+            <l>Mark this your <hi>End</hi> ye <hi>Potſherds,</hi> GOD will
+<hi>rent</hi>
+            </l>
+            <l>Your Kingdoms; wherefore prize time and <hi>repent.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <head>The Babe's breathing to his Brethren.</head>
+            <l>MY <hi>Siſters Sion's daughters</hi> joyn'd in <hi>hand</hi>
+            </l>
+            <l>In <hi>Unity</hi> in th'<hi>Heaven's</hi> ſwadling
+<hi>band,</hi>
+            </l>
+            <l>Which <hi>binds</hi> the <hi>World</hi> with <hi>Clouds,</hi> as
+under <hi>chains,</hi>
+            </l>
+            <l>There ſtands <hi>your Glory</hi> where the Eternal
+<hi>raigns.</hi>
+            </l>
+            <l>Our <hi>Mother</hi> bare her <hi>Children</hi> in much
+<hi>pain,</hi>
+            </l>
+            <l>In th'houſe where <hi>Judgment</hi> ſeparated
+<hi>twain,</hi>
+            </l>
+            <l>Slaying the <hi>Seed</hi> of <hi>enmity</hi> and
+<hi>ſtrife,</hi>
+            </l>
+            <l>The <hi>Seed</hi> of <hi>Promiſe</hi> to inherit
+<hi>Life;</hi>
+            </l>
+            <l>And <hi>brake</hi> the <hi>Covenant</hi> with <hi>Death</hi> and
+<hi>Hell,</hi>
+            </l>
+            <l>Under <hi>which,</hi> all the <hi>World,</hi> the <hi>Seed</hi>
+did <hi>ſell.</hi>
+            </l>
+            <l>
+               <hi>Shout, ſhout</hi> ye <hi>Sons,</hi> and <hi>fright</hi> the
+<hi>World,</hi> which <hi>boaſt</hi>
+            </l>
+            <l>Themſelves in the <hi>great number</hi> of their
+<hi>Hoſt.</hi>
+            </l>
+            <l>
+               <pb n="46" facs="tcp:106231:24"/>Oh! Heav'ns <hi>declare,</hi> and let the
+World <hi>wonder,</hi>
+            </l>
+            <l>Strike <hi>Terrour</hi> in the <hi>hearts</hi> of all their
+<hi>number:</hi>
+            </l>
+            <l>Let all their <hi>Conſolation</hi> fade and <hi>quail,</hi>
+            </l>
+            <l>And let their <hi>ſtrength</hi> in day of Battel
+<hi>fail:</hi>
+            </l>
+            <l>You in whoſe mouth the <hi>Word</hi> of <hi>Judgment</hi>
+ſtands,</l>
+            <l>Lade all the <hi>World</hi> with <hi>WO,</hi> and <hi>fill</hi>
+their hands,</l>
+            <l>Utter your <hi>Voice</hi> and let the <hi>Thunders</hi> rattle</l>
+            <l>Through <hi>Elements</hi> and <hi>Air,</hi> ſound to the
+Battle</l>
+            <l>The <hi>Trumpet</hi> of the <hi>dreadful LORD</hi> of
+<hi>Hoſts</hi>
+            </l>
+            <l>Among the <hi>Nations,</hi> throughout all their
+<hi>Coaſts.</hi>
+            </l>
+            <l>The DAY of <hi>God's</hi> at hand, the <hi>LIGHT's</hi> his
+<hi>Word;</hi>
+            </l>
+            <l>GOD comes with <hi>Fire, Plague, Famine</hi> and with
+<hi>Sword,</hi>
+            </l>
+            <l>To <hi>plead</hi> with <hi>all fleſh,</hi> living in
+<hi>Corruption,</hi>
+            </l>
+            <l>Upon their <hi>heads</hi> to bring <hi>ſwift <hi>fierce
+Deſtruction.</hi>
+               </hi>
+            </l>
+            <l>Here I am ſet <hi>one</hi> of the <hi>living number,</hi>
+            </l>
+            <l>A <hi>Sign</hi> in <hi>Egypt,</hi> to <hi>Sodom's</hi> brood a
+<hi>Wonder.</hi>
+            </l>
+            <l>GOD's Pow'r with <hi>His,</hi> is like a <hi>Fort</hi> of
+<hi>Steel,</hi>
+            </l>
+            <l>My <hi>Brethren</hi> in the <hi>Life</hi> you may me
+<hi>feel;</hi>
+            </l>
+            <l>For I am with you all under your <hi>Deep,</hi>
+            </l>
+            <l>Where all the <hi>Fiſhes</hi> ſwim, and <hi>Worms</hi>
+creep:</l>
+            <l>Where <hi>Turtle-Doves</hi> do <hi>fly</hi> with out-ſtretch't
+wing,</l>
+            <l>And where you hear the <hi>little Lark</hi> to ſing,</l>
+            <l>In that hid <hi>path,</hi> which all the World's <hi>Line</hi>
+            </l>
+            <l>Can't juſtly <hi>meaſure,</hi> to the <hi>End</hi> of
+<hi>Time,</hi>
+            </l>
+            <l>Even in that <hi>Bed</hi> where every <hi>ſoul</hi> is
+<hi>bleſt,</hi>
+            </l>
+            <l>I'm <hi>wrapt</hi> in <hi>fold</hi> for ever, for to
+<hi>reſt</hi>
+            </l>
+            <l>With <hi>you,</hi> in all <hi>conditions</hi> to hold faſt,</l>
+            <l>That of the <hi>firſt</hi> in <hi>him,</hi> who is the
+<hi>laſt.</hi>
+            </l>
+            <closer>
+               <dateline>From <hi>Venice Lazzaretta,</hi>
+               </dateline> 
+               <signed> J. P.</signed>
+            </closer>
+            <postscript>
+               <p>When the Fountains of the Deep were broken open, I was in the
+  Valley of the Mountain, and then I was moved to make mention of the Streams
+  thereof.</p>
+            </postscript>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:106231:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
